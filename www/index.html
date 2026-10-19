@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Kodama · bonsái</title>
+  <meta name="description" content="Cuida tu bonsái con tu kodama: riego, poda, alambrado y alertas, con guías interactivas y análisis por foto.">
+  <meta name="theme-color" content="#f2ede1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#141613" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/kodama.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="estilos.css">
+  <link rel="stylesheet" href="enciclopedia.css">
+  <link rel="stylesheet" href="guia.css">
+  <link rel="stylesheet" href="kodama.css">
+</head>
+<body>
+  <main>
+    <!-- HOY -->
+    <section id="ver-hoy" class="vista activa" aria-label="Hoy"></section>
+
+    <!-- FOTO -->
+    <section id="ver-foto" class="vista" aria-labelledby="t-foto">
+      <div id="foto-inicio">
+        <h2 id="t-foto" class="titulo-grande">Muéstrame tu bonsái</h2>
+        <p class="bajada">Toma una foto de frente, con el árbol completo y un fondo despejado. Te marco sobre la foto dónde cortar, qué pinzar y qué ramas alambrar.</p>
+        <div class="camara-guia" aria-hidden="true">
+          <div class="visor"><i></i><i></i><i></i><i></i><div class="silueta-visor"></div></div>
+        </div>
+        <div class="botones-foto">
+          <label class="boton primario grande"><svg aria-hidden="true"><use href="#ico-camara"/></svg>Tomar foto<input id="in-camara" type="file" accept="image/*" capture="environment" hidden></label>
+          <label class="boton secundario grande"><svg aria-hidden="true"><use href="#ico-galeria"/></svg>Elegir de la galería<input id="in-galeria" type="file" accept="image/*" hidden></label>
+        </div>
+        <ul class="consejos-foto">
+          <li>A la altura del tronco, no desde arriba.</li>
+          <li>Que se vean la base, las raíces y el ápice.</li>
+          <li>Fondo liso (una pared o una sábana).</li>
+        </ul>
+        <p id="estado-ia" class="meta"></p>
+      </div>
+      <div id="foto-cargando" class="cargando" hidden>
+        <div class="foto-cargando"><img id="img-cargando" alt=""><div class="barrido"></div></div>
+        <p class="titulo-medio">Observando tu árbol…</p>
+        <p id="frase-carga" class="bajada"></p>
+      </div>
+      <div id="foto-resultado" hidden></div>
+    </section>
+
+    <!-- APRENDER (enciclopedia) -->
+    <section id="ver-aprender" class="vista" aria-label="Enciclopedia"></section>
+
+    <!-- JARDÍN -->
+    <section id="ver-jardin" class="vista" aria-labelledby="t-jardin">
+      <h2 id="t-jardin" class="titulo-grande">Tu jardín</h2>
+      <div id="lista-jardin"></div>
+      <button class="boton secundario grande ancho" id="agregar-bonsai"><svg aria-hidden="true"><use href="#ico-mas"/></svg>Agregar otro bonsái</button>
+      <h3 class="titulo-medio" id="alertas">Alertas</h3>
+      <div id="lista-alertas"></div>
+      <form id="nueva-alerta" class="tarjeta formulario">
+        <h4>Nueva alerta</h4>
+        <label>¿Qué te recuerdo?<input name="titulo" type="text" required placeholder="Ej.: Revisar el alambre"></label>
+        <div class="dos-campos">
+          <label>Cuándo<input name="cuando" type="datetime-local" required></label>
+          <label>Repetir<select name="repetir"><option value="no">Una vez</option><option value="dia">Todos los días</option><option value="semana">Cada semana</option></select></label>
+        </div>
+        <button class="boton primario"><svg aria-hidden="true"><use href="#ico-campana"/></svg>Crear alerta</button>
+        <p class="meta" id="nota-alertas"></p>
+      </form>
+      <h3 class="titulo-medio" id="ajustes">Ajustes</h3>
+      <div id="panel-ajustes" class="tarjeta formulario"></div>
+    </section>
+
+    <!-- KODAMA -->
+    <section id="ver-kodama" class="vista" aria-labelledby="t-kodama"></section>
+  </main>
+
+  <nav class="navegacion" aria-label="Secciones">
+    <button data-vista="hoy" class="activa"><svg aria-hidden="true"><use href="#ico-hoja"/></svg>Hoy</button>
+    <button data-vista="foto"><svg aria-hidden="true"><use href="#ico-camara"/></svg>Foto</button>
+    <button data-vista="aprender"><svg aria-hidden="true"><use href="#ico-libro"/></svg>Enciclopedia</button>
+    <button data-vista="jardin"><svg aria-hidden="true"><use href="#ico-maceta"/></svg>Jardín</button>
+  </nav>
+
+  <div id="aviso" class="aviso" role="status" hidden></div>
+
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="ico-camara" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+    <symbol id="ico-galeria" viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="14" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="m4 16 5-5 4 4 2-2 5 5"/><circle cx="15.5" cy="9.5" r="1.5" fill="currentColor"/></symbol>
+    <symbol id="ico-maceta" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M4 14h16l-2 6H6zM12 14V8m0 0c-3 0-5-2-5-4 3 0 5 2 5 4Zm0 0c3 0 5-2 5-4-3 0-5 2-5 4Z"/></symbol>
+    <symbol id="ico-hoja" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M5 19C5 10 10 5 20 4c0 9-5 15-15 15Zm0 0 8-8"/></symbol>
+    <symbol id="ico-libro" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M4 5.5C6.5 4 9.5 4 12 6c2.5-2 5.5-2 8-.5V19c-2.5-1.5-5.5-1.5-8 .5-2.5-2-5.5-2-8-.5zM12 6v13.5"/></symbol>
+    <symbol id="ico-tijera" viewBox="0 0 24 24"><circle cx="6" cy="18" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="18" cy="18" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M7.8 16.2 17 4M16.2 16.2 7 4"/></symbol>
+    <symbol id="ico-gota" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M12 3s6 7 6 11a6 6 0 0 1-12 0c0-4 6-11 6-11Z"/></symbol>
+    <symbol id="ico-sol" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.8"/><path stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></symbol>
+    <symbol id="ico-nube" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M7 18h10a4 4 0 0 0 .5-8 6 6 0 0 0-11.3 1.5A3.3 3.3 0 0 0 7 18Z"/></symbol>
+    <symbol id="ico-casa" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M4 11 12 4l8 7v9H4zM10 20v-5h4v5"/></symbol>
+    <symbol id="ico-alambre" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M3 20 21 4M6 21l-3-5m7 2-3-5m7 2-3-5m7 2-3-5"/></symbol>
+    <symbol id="ico-abono" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M7 4h10l-1 4H8zM8 8l-2 12h12L16 8"/><circle cx="10" cy="14" r="1.2" fill="currentColor"/><circle cx="14" cy="16" r="1.2" fill="currentColor"/><circle cx="13" cy="12" r="1.2" fill="currentColor"/></symbol>
+    <symbol id="ico-giro" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M20 12a8 8 0 1 1-2.3-5.7M20 4v4h-4"/></symbol>
+    <symbol id="ico-volver" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M15 5 8 12l7 7"/></symbol>
+    <symbol id="ico-cerrar" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M6 6l12 12M18 6 6 18"/></symbol>
+    <symbol id="ico-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M12 11v6M12 7.5v.5"/></symbol>
+    <symbol id="ico-play" viewBox="0 0 24 24"><path fill="currentColor" d="M8 5v14l11-7z"/></symbol>
+    <symbol id="ico-calendario" viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><path stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M4 10h16M8 3v4m8-4v4"/></symbol>
+    <symbol id="ico-reloj" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M12 7v5l3 2"/></symbol>
+    <symbol id="ico-escoba" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M19 4 11 12M8 11l5 5-2 5c-3-1-6-4-7-7z"/></symbol>
+    <symbol id="ico-enviar" viewBox="0 0 24 24"><path fill="currentColor" d="M3 20 21 12 3 4l2 7 9 1-9 1z"/></symbol>
+    <symbol id="ico-mas" viewBox="0 0 24 24"><path stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="ico-campana" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M6 17V11a6 6 0 0 1 12 0v6l2 2H4zM10 21h4"/></symbol>
+    <symbol id="ico-candado" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="10" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><path fill="none" stroke="currentColor" stroke-width="1.8" d="M8 11V8a4 4 0 0 1 8 0v3"/></symbol>
+    <symbol id="ico-editar" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M4 20h4L19 9l-4-4L4 16zM13.5 6.5l4 4"/></symbol>
+    <symbol id="ico-mando" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M7 8h10a4 4 0 0 1 4 4l1 4a2.5 2.5 0 0 1-4.5 1.5L16 16H8l-1.5 1.5A2.5 2.5 0 0 1 2 16l1-4a4 4 0 0 1 4-4Z"/><path stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M8 10v4M6 12h4"/><circle cx="16" cy="11" r="1" fill="currentColor"/><circle cx="18" cy="13" r="1" fill="currentColor"/></symbol>
+    <symbol id="ico-pincel" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M14 4l6 6-8 8-6-6zM6 12l-2 6 6-2"/></symbol>
+  </svg>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

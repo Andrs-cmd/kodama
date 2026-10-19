@@ -1,0 +1,22 @@
+{
+  "name": "Kodama · bonsái",
+  "short_name": "Kodama",
+  "description": "Cuida tu bonsái con tu kodama: riego, poda, alambrado y alertas.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2ede1",
+  "theme_color": "#3f5f35",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icons/kodama-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/kodama.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

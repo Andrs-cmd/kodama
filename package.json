@@ -1,0 +1,24 @@
+{
+  "name": "bonsai",
+  "version": "0.1.0",
+  "description": "Kodama: identifica tu bonsái con una foto y te dice cómo regarlo, podarlo y alambrarlo, con los cortes marcados sobre la imagen.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server/index.mjs",
+    "test": "node --test",
+    "apk": "node scripts/compilar-apk.mjs",
+    "apk:preparar": "node scripts/preparar-apk.mjs && npx cap sync android"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.132.1"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.2.2",
+    "@capacitor/app": "^6.0.3",
+    "@capacitor/cli": "^6.2.2",
+    "@capacitor/core": "^6.2.2",
+    "@capacitor/haptics": "^6.0.3",
+    "@capacitor/local-notifications": "^6.1.3"
+  }
+}

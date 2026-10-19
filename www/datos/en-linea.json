@@ -1,0 +1,851 @@
+{
+ "generado": "2026-10-19T21:48:11.653Z",
+ "especies": {
+  "ficus-retusa": {
+   "nombre": "Ficus microcarpa",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Ficus microcarpa",
+    "extracto": "Ficus microcarpa, llamado comúnmente laurel de Indias, es una de las especies del género Ficus nativa del sur y sureste de Asia. Se distribuye naturalmente por las regiones tropicales, considerándose en muchos lugares como especie invasiva.",
+    "url": "https://es.wikipedia.org/wiki/Ficus_microcarpa",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ficus_microcarpa_Blanco2.382-cropped.jpg/330px-Ficus_microcarpa_Blanco2.382-cropped.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 7467639,
+    "url": "https://www.gbif.org/species/7467639",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Rosales",
+     "familia": "Moraceae",
+     "genero": "Ficus",
+     "especie": "Ficus microcarpa"
+    },
+    "nombresEs": [],
+    "iucn": "LEAST_CONCERN",
+    "registros": 12846,
+    "registrosColombia": 10
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/ficus"
+    }
+   ]
+  },
+  "ficus-benjamina": {
+   "nombre": "Ficus benjamina",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Ficus benjamina",
+    "extracto": "El ficus de hoja pequeña, matapalo o árbol benjamín (Ficus benjamina), llamado también vulgarmente de igual manera, boj o laurel de la india en Costa Rica, Ficus en El Salvador y Guatemala, y en América del Sur se le conoce como caucho benjamina o matapalo, Falso Laurel en Colombia Es una higuera nativa del sur y sureste de Asia, y sur y norte de Australia. Es el árbol oficial de Bangkok, Tailandia.",
+    "url": "https://es.wikipedia.org/wiki/Ficus_benjamina",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ficus_benjamina.jpg/330px-Ficus_benjamina.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5361932,
+    "url": "https://www.gbif.org/species/5361932",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Rosales",
+     "familia": "Moraceae",
+     "genero": "Ficus",
+     "especie": "Ficus benjamina"
+    },
+    "nombresEs": [
+     "Pivijai"
+    ],
+    "iucn": "LEAST_CONCERN",
+    "registros": 7732,
+    "registrosColombia": 457
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/ficus"
+    }
+   ]
+  },
+  "carmona": {
+   "nombre": "Carmona retusa",
+   "wikipedia": null,
+   "gbif": {
+    "clave": 4066311,
+    "url": "https://www.gbif.org/species/4066311",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Boraginales",
+     "familia": "Ehretiaceae",
+     "genero": "Ehretia",
+     "especie": "Ehretia microphylla"
+    },
+    "nombresEs": [
+     "árbol de té Fukien"
+    ],
+    "iucn": "NOT_EVALUATED",
+    "registros": 3348,
+    "registrosColombia": 0
+   },
+   "guias": []
+  },
+  "portulacaria": {
+   "nombre": "Portulacaria afra",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Portulacaria afra",
+    "extracto": "Portulacaria afra, conocida comúnmente como árbol de la abundancia o monedita o Jade, es un arbusto suculento perteneciente al género Portulacaria, dentro de la familia Didiereaceae. Se distribuye por el noroeste de Kenia, el sur de Mozambique y el sur de África.",
+    "url": "https://es.wikipedia.org/wiki/Portulacaria_afra",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Portulacaria_afra_02.JPG/330px-Portulacaria_afra_02.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 3084777,
+    "url": "https://www.gbif.org/species/3084777",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Caryophyllales",
+     "familia": "Didiereaceae",
+     "genero": "Portulacaria",
+     "especie": "Portulacaria afra"
+    },
+    "nombresEs": [
+     "Jade",
+     "Árbol africano de la abundancia"
+    ],
+    "iucn": "LEAST_CONCERN",
+    "registros": 4545,
+    "registrosColombia": 0
+   },
+   "guias": []
+  },
+  "serissa": {
+   "nombre": "Serissa japonica",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Serissa japonica",
+    "extracto": "Serissa japonica es una especie de arbusto perteneciente a la familia de las rubiáceas. Es nativa de regiones subtropicales y de los bosques y prados húmedos del sureste de Asia, de India y China hasta Japón. Es la única especie de su género Serissa.",
+    "url": "https://es.wikipedia.org/wiki/Serissa_japonica",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Serissa_foetida_blossom.jpg/330px-Serissa_foetida_blossom.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 12254482,
+    "url": "https://www.gbif.org/species/12254482",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Gentianales",
+     "familia": "Rubiaceae",
+     "genero": "Buchozia",
+     "especie": "Buchozia japonica"
+    },
+    "nombresEs": [],
+    "iucn": "NOT_EVALUATED",
+    "registros": 3102,
+    "registrosColombia": 6
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/serissa"
+    }
+   ]
+  },
+  "schefflera": {
+   "nombre": "Schefflera arboricola",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Schefflera arboricola",
+    "extracto": "Schefflera arboricola, también conocida como cheflera o chiflera, es una planta de la familia Araliaceae, nativa de las islas de Taiwán y Hainan, pertenecientes a la República de China y a la República Popular China respectivamente. También es conocida como «árbol paraguas enano».",
+    "url": "https://es.wikipedia.org/wiki/Schefflera_arboricola",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Schefflera_arboricola.jpg/330px-Schefflera_arboricola.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 8322892,
+    "url": "https://www.gbif.org/species/8322892",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Apiales",
+     "familia": "Araliaceae",
+     "genero": "Schefflera",
+     "especie": "Schefflera arboricola"
+    },
+    "nombresEs": [],
+    "iucn": "NOT_EVALUATED",
+    "registros": 416,
+    "registrosColombia": 13
+   },
+   "guias": []
+  },
+  "murraya": {
+   "nombre": "Murraya paniculata",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Murraya paniculata",
+    "extracto": "Murraya paniculata es una planta tropical de hojas perennes pequeñas, flores blancas y perfumadas, que se cultiva como un árbol ornamental o de cobertura, originaria del Sureste de Asia desde China a Japón y Malasia. La Murraya está estrechamente relacionada con los cítricos.",
+    "url": "https://es.wikipedia.org/wiki/Murraya_paniculata",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Murraya_paniculata_fruits_closeup.jpg/330px-Murraya_paniculata_fruits_closeup.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 8190743,
+    "url": "https://www.gbif.org/species/8190743",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Sapindales",
+     "familia": "Rutaceae",
+     "genero": "Murraya",
+     "especie": "Murraya paniculata"
+    },
+    "nombresEs": [],
+    "iucn": "NOT_EVALUATED",
+    "registros": 14713,
+    "registrosColombia": 220
+   },
+   "guias": []
+  },
+  "buganvilla": {
+   "nombre": "Bougainvillea glabra",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Bougainvillea glabra",
+    "extracto": "La flor de papel, Santa Rita, buganvilla menor o papelillo, es una especie de planta trepadora de la familia de las Nyctaginaceae; y es la más común de las especies para bonsái. Es nativa de las regiones amazónicas de Colombia, Perú, Brasil, Paraguay y Argentina.",
+    "url": "https://es.wikipedia.org/wiki/Bougainvillea_glabra",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Flor_de_Santa_Rita_%28Bougainvillea_glabra%29_una_especie_de_planta_trepadora_de_la_familia_de_las_Nyctaginaceae_%28sobre_Ruta_Provincial_7%2C_municipio_de_Ruiz_de_Montoya%2C_Provincia_de_Misiones%2C_Rep%C3%BAblica_Argentina%29.jpg/330px-thumbnail.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5384862,
+    "url": "https://www.gbif.org/species/5384862",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Caryophyllales",
+     "familia": "Nyctaginaceae",
+     "genero": "Bougainvillea",
+     "especie": "Bougainvillea glabra"
+    },
+    "nombresEs": [
+     "Bugambilia mamey",
+     "Curazao",
+     "Santa Rita",
+     "Trinitariariocha",
+     "Veranera"
+    ],
+    "iucn": "LEAST_CONCERN",
+    "registros": 4852,
+    "registrosColombia": 187
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/bougainvillea"
+    }
+   ]
+  },
+  "olmo-chino": {
+   "nombre": "Ulmus parvifolia",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Ulmus parvifolia",
+    "extracto": "El Ulmus parvifolia, comúnmente conocido como olmo chino, es una especie originaria de China, Japón, Corea del Norte, Corea del Sur y Vietnam. Ha sido descrito como \"uno de los más espléndidos olmos, con el aplomo de un elegante Nothofagus\".",
+    "url": "https://es.wikipedia.org/wiki/Ulmus_parvifolia",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/RN_Ulmus_parvifolia_%28Hilversum%29.JPG/330px-RN_Ulmus_parvifolia_%28Hilversum%29.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5361869,
+    "url": "https://www.gbif.org/species/5361869",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Rosales",
+     "familia": "Ulmaceae",
+     "genero": "Ulmus",
+     "especie": "Ulmus parvifolia"
+    },
+    "nombresEs": [
+     "olmo chino"
+    ],
+    "iucn": "LEAST_CONCERN",
+    "registros": 15108,
+    "registrosColombia": 0
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/chinese-elm"
+    }
+   ]
+  },
+  "arce-japones": {
+   "nombre": "Acer palmatum",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Acer palmatum",
+    "extracto": "El arce japonés palmeado, arce palmado japonés, arce japonés o arce polimorfo es una especie de arce nativa de Corea y de Japón. Algunas fuentes aseveran que también es nativa de China, pero otras tratan arces chinos similares como especies separadas.",
+    "url": "https://es.wikipedia.org/wiki/Acer_palmatum",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Acer_palmatum0.jpg/330px-Acer_palmatum0.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 3189882,
+    "url": "https://www.gbif.org/species/3189882",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Sapindales",
+     "familia": "Sapindaceae",
+     "genero": "Acer",
+     "especie": "Acer palmatum"
+    },
+    "nombresEs": [],
+    "iucn": "LEAST_CONCERN",
+    "registros": 25333,
+    "registrosColombia": 3
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/maple"
+    }
+   ]
+  },
+  "arce-tridente": {
+   "nombre": "Acer buergerianum",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Acer buergerianum",
+    "extracto": "Acer buergerianum Miq., arce tridente es una especie de árbol perteneciente a la familia de las sapindáceas. Se encuentra en China, Japón y Taiwán.",
+    "url": "https://es.wikipedia.org/wiki/Acer_buergerianum",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Acer_buergerianum_seeds.jpg/330px-Acer_buergerianum_seeds.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 7100404,
+    "url": "https://www.gbif.org/species/7100404",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Sapindales",
+     "familia": "Sapindaceae",
+     "genero": "Acer",
+     "especie": "Acer buergerianum"
+    },
+    "nombresEs": [
+     "arce tridente"
+    ],
+    "iucn": "LEAST_CONCERN",
+    "registros": 3286,
+    "registrosColombia": 0
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/trident-maple"
+    }
+   ]
+  },
+  "junipero-procumbens": {
+   "nombre": "Juniperus procumbens",
+   "wikipedia": {
+    "lang": "en",
+    "titulo": "Juniperus procumbens",
+    "extracto": "Juniperus procumbens is a species of shrub in the cypress family Cupressaceae, native to Japan. This low-growing evergreen conifer is closely related to the Chinese juniper, Juniperus chinensis, and is sometimes treated as a variety of it, as J. chinensis var. procumbens.",
+    "url": "https://en.wikipedia.org/wiki/Juniperus_procumbens",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Juniperus_procumbens_nana_MN_2007.JPG/330px-Juniperus_procumbens_nana_MN_2007.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 2684586,
+    "url": "https://www.gbif.org/species/2684586",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Pinopsida",
+     "orden": "Pinales",
+     "familia": "Cupressaceae",
+     "genero": "Juniperus",
+     "especie": "Juniperus procumbens"
+    },
+    "nombresEs": [],
+    "iucn": "LEAST_CONCERN",
+    "registros": 487,
+    "registrosColombia": 0
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/juniper"
+    }
+   ]
+  },
+  "junipero-chinensis": {
+   "nombre": "Juniperus chinensis",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Juniperus chinensis",
+    "extracto": "Juniperus chinensis, el enebro de la China, es una especie arbórea perteneciente a la familia de las Cupresáceas, oriunda del noreste y centro este de Asia; en China, Mongolia, Japón, Corea y el sudeste de Rusia.",
+    "url": "https://es.wikipedia.org/wiki/Juniperus_chinensis",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Juniperus_chinensis_cult._aurea.JPG/330px-Juniperus_chinensis_cult._aurea.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 2684363,
+    "url": "https://www.gbif.org/species/2684363",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Pinopsida",
+     "orden": "Pinales",
+     "familia": "Cupressaceae",
+     "genero": "Juniperus",
+     "especie": "Juniperus chinensis"
+    },
+    "nombresEs": [],
+    "iucn": "LEAST_CONCERN",
+    "registros": 6605,
+    "registrosColombia": 2
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/juniper"
+    }
+   ]
+  },
+  "pino-negro": {
+   "nombre": "Pinus thunbergii",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Pinus thunbergii",
+    "extracto": "Pinus thunbergii, el pino japonés de Thunberg, es una especie arbórea de la familia de las Pináceas. Se trata de un pino originario de las zonas costeras de Japón y Corea del Sur.",
+    "url": "https://es.wikipedia.org/wiki/Pinus_thunbergii",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Japanese_Black_Pine_in_Ichikawa_Chiba.jpg/330px-Japanese_Black_Pine_in_Ichikawa_Chiba.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5285799,
+    "url": "https://www.gbif.org/species/5285799",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Pinopsida",
+     "orden": "Pinales",
+     "familia": "Pinaceae",
+     "genero": "Pinus",
+     "especie": "Pinus thunbergii"
+    },
+    "nombresEs": [
+     "Pino negro japonés"
+    ],
+    "iucn": "LEAST_CONCERN",
+    "registros": 4881,
+    "registrosColombia": 0
+   },
+   "guias": []
+  },
+  "pino-patula": {
+   "nombre": "Pinus patula",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Pinus patula",
+    "extracto": "Pinus patula, el pino mexicano amarillo o pino patula es una especie arbórea de las Pináceas, del Nuevo Mundo, de México.",
+    "url": "https://es.wikipedia.org/wiki/Pinus_patula",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pinus_patula%2C_Esperanza%2C_Puebla%2C_M%C3%A9xico_1.jpg/330px-Pinus_patula%2C_Esperanza%2C_Puebla%2C_M%C3%A9xico_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5285090,
+    "url": "https://www.gbif.org/species/5285090",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Pinopsida",
+     "orden": "Pinales",
+     "familia": "Pinaceae",
+     "genero": "Pinus",
+     "especie": "Pinus patula"
+    },
+    "nombresEs": [
+     "Ocote",
+     "Pino Triste",
+     "Pino colorado",
+     "Pino mexicano amarillo",
+     "Pino pátula",
+     "ocote colorado",
+     "pino",
+     "pino colorado"
+    ],
+    "iucn": "LEAST_CONCERN",
+    "registros": 11469,
+    "registrosColombia": 8281
+   },
+   "guias": []
+  },
+  "azalea": {
+   "nombre": "Rhododendron indicum",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Rhododendron indicum",
+    "extracto": "Rhododendron indicum es una especie de Rhododendron nativa de Japón. Existen muchos cultivares.",
+    "url": "https://es.wikipedia.org/wiki/Rhododendron_indicum",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Rhododendron_indicum1.jpg/330px-Rhododendron_indicum1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 4173541,
+    "url": "https://www.gbif.org/species/4173541",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Ericales",
+     "familia": "Ericaceae",
+     "genero": "Rhododendron",
+     "especie": "Rhododendron indicum"
+    },
+    "nombresEs": [
+     "Biflora"
+    ],
+    "iucn": "NOT_EVALUATED",
+    "registros": 2549,
+    "registrosColombia": 25
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/azalea"
+    }
+   ]
+  },
+  "olivo": {
+   "nombre": "Olea europaea",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Olea europaea",
+    "extracto": "Olea europaea, llamado comúnmente olivo y olivera, así como también oliva y aceituno, es un árbol pequeño perennifolio que puede alcanzar hasta 15 m de altura, con tronco grueso de aspecto retorcido. Su corteza es de color gris o plateado y tiene hojas opuestas, lanceoladas. Las flores son hermafroditas, en panículas axilares multifloras, con corola blanca. El fruto, la aceituna u oliva, es una drupa de 1 a 3,5 cm de largo. Su periodo de floración sucede entre mayo y julio en el hemisferio norte, y entre noviembre y enero en el hemisferio sur, mientras que su periodo de fructificación ocurre entre septiembre y diciembre en el hemisferio norte, y entre marzo y junio en el hemisferio sur. De este fruto se obtiene un aceite muy apreciado en gastronomía, el aceite de oliva.",
+    "url": "https://es.wikipedia.org/wiki/Olea_europaea",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Oliveira_%28Olea_europaea%29_na_Pra%C3%A7a_da_Esta%C3%A7%C3%A3o%2C_Bag%C3%A9%2C_RS%2C_Brasil_%288160_x_6120px%29.jpg/330px-Oliveira_%28Olea_europaea%29_na_Pra%C3%A7a_da_Esta%C3%A7%C3%A3o%2C_Bag%C3%A9%2C_RS%2C_Brasil_%288160_x_6120px%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5415040,
+    "url": "https://www.gbif.org/species/5415040",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Lamiales",
+     "familia": "Oleaceae",
+     "genero": "Olea",
+     "especie": "Olea europaea"
+    },
+    "nombresEs": [
+     "acebuche"
+    ],
+    "iucn": "NOT_EVALUATED",
+    "registros": 410745,
+    "registrosColombia": 25
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/olive"
+    }
+   ]
+  },
+  "jade": {
+   "nombre": "Crassula ovata",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Crassula ovata",
+    "extracto": "Crassula ovata, comúnmente llamada árbol de jade, es una planta suculenta originaria de Mozambique y de algunas provincias sudafricanas.",
+    "url": "https://es.wikipedia.org/wiki/Crassula_ovata",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Addisonia_%28PLATE_109%29_%288592464390%29.jpg/330px-Addisonia_%28PLATE_109%29_%288592464390%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5362063,
+    "url": "https://www.gbif.org/species/5362063",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Saxifragales",
+     "familia": "Crassulaceae",
+     "genero": "Crassula",
+     "especie": "Crassula ovata"
+    },
+    "nombresEs": [],
+    "iucn": "NOT_EVALUATED",
+    "registros": 2651,
+    "registrosColombia": 30
+   },
+   "guias": []
+  },
+  "granado": {
+   "nombre": "Punica granatum",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Punica granatum",
+    "extracto": "Punica granatum, llamado comúnmente granado, es una especie de planta de la familia Lythraceae, cuyo fruto es la granada. Nativa de la región desde Irán hasta el Himalaya, se ha cultivado desde la antigüedad por toda la cuenca mediterránea.",
+    "url": "https://es.wikipedia.org/wiki/Punica_granatum",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Illustration_Punica_granatum1.jpg/330px-Illustration_Punica_granatum1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5420901,
+    "url": "https://www.gbif.org/species/5420901",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Myrtales",
+     "familia": "Lythraceae",
+     "genero": "Punica",
+     "especie": "Punica granatum"
+    },
+    "nombresEs": [
+     "Granada",
+     "granada cordelina",
+     "granado",
+     "mangrano",
+     "romazeira",
+     "romeira"
+    ],
+    "iucn": "LEAST_CONCERN",
+    "registros": 53347,
+    "registrosColombia": 116
+   },
+   "guias": []
+  },
+  "pyracantha": {
+   "nombre": "Pyracantha coccinea",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Pyracantha coccinea",
+    "extracto": "El espino de fuego o piracanta es una especie de planta arbustiva del género Pyracantha en la familia Rosaceae.",
+    "url": "https://es.wikipedia.org/wiki/Pyracantha_coccinea",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Brosen_pyracantha_coccinea1.jpg/330px-Brosen_pyracantha_coccinea1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 2988188,
+    "url": "https://www.gbif.org/species/2988188",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Rosales",
+     "familia": "Rosaceae",
+     "genero": "Pyracantha",
+     "especie": "Pyracantha coccinea"
+    },
+    "nombresEs": [
+     "Pingüica",
+     "Piracanto eurasiático",
+     "espino de fuego",
+     "piracanta"
+    ],
+    "iucn": "NOT_EVALUATED",
+    "registros": 34882,
+    "registrosColombia": 64
+   },
+   "guias": []
+  },
+  "cotoneaster": {
+   "nombre": "Cotoneaster horizontalis",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Cotoneaster horizontalis",
+    "extracto": "Cotoneaster horizontalis es una especie de arbusto perteneciente a la familia de las rosáceas. Es originaria de China.",
+    "url": "https://es.wikipedia.org/wiki/Cotoneaster_horizontalis",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Cotoneaster_horizontalis.JPG/330px-Cotoneaster_horizontalis.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 3025617,
+    "url": "https://www.gbif.org/species/3025617",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Rosales",
+     "familia": "Rosaceae",
+     "genero": "Cotoneaster",
+     "especie": "Cotoneaster horizontalis"
+    },
+    "nombresEs": [],
+    "iucn": "NOT_EVALUATED",
+    "registros": 51618,
+    "registrosColombia": 0
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/cotoneaster"
+    }
+   ]
+  },
+  "ginkgo": {
+   "nombre": "Ginkgo biloba",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Ginkgo biloba",
+    "extracto": "El ginkgo, gingko o árbol de los cuarenta escudos es una especie de árbol del género Ginkgo, la única especie no extinta de la clase Ginkgopsida, siendo un ejemplo de relicto o fósil viviente, debido a su presencia en el registro fósil desde hace 290 millones de años. Su aspecto se asemeja a las plantas con flor o angiospermas, aunque pertenece al grupo de las gimnospermas.",
+    "url": "https://es.wikipedia.org/wiki/Ginkgo_biloba",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ginkgo_Biloba_Leaves_-_Black_Background.jpg/330px-Ginkgo_Biloba_Leaves_-_Black_Background.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 2687885,
+    "url": "https://www.gbif.org/species/2687885",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Ginkgoopsida",
+     "orden": "Ginkgoales",
+     "familia": "Ginkgoaceae",
+     "genero": "Ginkgo",
+     "especie": "Ginkgo biloba"
+    },
+    "nombresEs": [],
+    "iucn": "ENDANGERED",
+    "registros": 64722,
+    "registrosColombia": 5
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/ginkgo"
+    }
+   ]
+  },
+  "podocarpus": {
+   "nombre": "Podocarpus macrophyllus",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Podocarpus macrophyllus",
+    "extracto": "Podocarpus macrophyllus es una especie arbórea de la familia de las Podocarpaceae. Esta conífera es la especie más al norte del género, originaria del sur del Japón y China. Kusamaki (クサマキ) e Inumaki (犬槇) son los nombres japoneses para este árbol, y Kusamaki se usa cada vez más como nombre en inglés. En China se conoce como 羅漢松 luó hàn sōng.",
+    "url": "https://es.wikipedia.org/wiki/Podocarpus_macrophyllus",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Podocarpus_K3.jpg/330px-Podocarpus_K3.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 5285930,
+    "url": "https://www.gbif.org/species/5285930",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Pinopsida",
+     "orden": "Pinales",
+     "familia": "Podocarpaceae",
+     "genero": "Podocarpus",
+     "especie": "Podocarpus macrophyllus"
+    },
+    "nombresEs": [],
+    "iucn": "LEAST_CONCERN",
+    "registros": 10146,
+    "registrosColombia": 3
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/podocarpus"
+    }
+   ]
+  },
+  "sageretia": {
+   "nombre": "Sageretia theezans",
+   "wikipedia": {
+    "lang": "en",
+    "titulo": "Sageretia theezans",
+    "extracto": "Sageretia thea or Sageretia theezans is a shrub from the family Rhamnaceae, native to southern China. It is widely used for creating bonsai.",
+    "url": "https://en.wikipedia.org/wiki/Sageretia_theezans",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Sageretia_theezans.jpg/330px-Sageretia_theezans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 3039516,
+    "url": "https://www.gbif.org/species/3039516",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Rosales",
+     "familia": "Rhamnaceae",
+     "genero": "Sageretia",
+     "especie": "Sageretia thea"
+    },
+    "nombresEs": [],
+    "iucn": "NOT_EVALUATED",
+    "registros": 3883,
+    "registrosColombia": 0
+   },
+   "guias": []
+  },
+  "zelkova": {
+   "nombre": "Zelkova serrata",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Zelkova serrata",
+    "extracto": "Zelkova serrata, Zelkova del Japón o Keyaki ; es una especie de Zelkova nativa de Japón, Corea, este de China, y Taiwán.",
+    "url": "https://es.wikipedia.org/wiki/Zelkova_serrata",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Zelkova_serrata_Noma_keyaki01.jpg/330px-Zelkova_serrata_Noma_keyaki01.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 2984532,
+    "url": "https://www.gbif.org/species/2984532",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Rosales",
+     "familia": "Ulmaceae",
+     "genero": "Zelkova",
+     "especie": "Zelkova serrata"
+    },
+    "nombresEs": [
+     "Olmo del Japón",
+     "Zelkova japonesa"
+    ],
+    "iucn": "NEAR_THREATENED",
+    "registros": 58588,
+    "registrosColombia": 5
+   },
+   "guias": [
+    {
+     "titulo": "Guía de cuidado (Bonsai Empire, inglés)",
+     "url": "https://www.bonsaiempire.com/tree-species/zelkova"
+    }
+   ]
+  },
+  "guayacan": {
+   "nombre": "Handroanthus",
+   "wikipedia": {
+    "lang": "es",
+    "titulo": "Handroanthus",
+    "extracto": "\nLos lapachos (Handroanthus) son un grupo de especies arbóreas de la familia Bignoniaceae, nativos de las regiones cálidas de América, distribuido desde México hasta el Uruguay y la Argentina. Hasta la primera década del siglo XXI sus especies eran incluidas en el género Tabebuia.",
+    "url": "https://es.wikipedia.org/wiki/Handroanthus",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Tabebuia_avellanedae.jpg/330px-Tabebuia_avellanedae.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+   },
+   "gbif": {
+    "clave": 6401269,
+    "url": "https://www.gbif.org/species/6401269",
+    "taxonomia": {
+     "reino": "Plantae",
+     "filo": "Tracheophyta",
+     "clase": "Magnoliopsida",
+     "orden": "Lamiales",
+     "familia": "Bignoniaceae",
+     "genero": "Handroanthus",
+     "especie": "Handroanthus"
+    },
+    "nombresEs": [
+     "Lapachos y parientes"
+    ],
+    "iucn": "NOT_EVALUATED",
+    "registros": 101047,
+    "registrosColombia": 69149
+   },
+   "guias": []
+  }
+ }
+}

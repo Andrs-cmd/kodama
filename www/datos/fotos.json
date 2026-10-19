@@ -1,0 +1,2921 @@
+{
+ "generado": "2026-10-19T21:25:29.412Z",
+ "especies": {
+  "ficus-retusa": {
+   "bonsai": [
+    {
+     "titulo": "Bonsai Adam and Eve (PPL2-Enhanced) julesvernex2",
+     "archivo": "File:Bonsai Adam and Eve (PPL2-Enhanced) julesvernex2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bonsai_Adam_and_Eve_%28PPL2-Enhanced%29_julesvernex2.jpg/960px-Bonsai_Adam_and_Eve_%28PPL2-Enhanced%29_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 497,
+     "autor": "Jules Verne Times Two",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_Adam_and_Eve_(PPL2-Enhanced)_julesvernex2.jpg"
+    },
+    {
+     "titulo": "Japanese Garden Green Island Fig Bonsai NBG LR",
+     "archivo": "File:Japanese Garden Green Island Fig Bonsai NBG LR.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Japanese_Garden_Green_Island_Fig_Bonsai_NBG_LR.jpg/960px-Japanese_Garden_Green_Island_Fig_Bonsai_NBG_LR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 620,
+     "autor": "PumpkinSky",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_Green_Island_Fig_Bonsai_NBG_LR.jpg"
+    },
+    {
+     "titulo": "Chinese Banyan - National Bonsai & Penjing Museum - Washington, D.C. - Sarah Stierch",
+     "archivo": "File:Chinese Banyan - National Bonsai & Penjing Museum - Washington, D.C. - Sarah Stierch.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chinese_Banyan_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Sarah_Stierch.jpg/960px-Chinese_Banyan_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 573,
+     "autor": "Sarah Stierch",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Chinese_Banyan_-_National_Bonsai_%26_Penjing_Museum_-_Washington,_D.C._-_Sarah_Stierch.jpg"
+    },
+    {
+     "titulo": "Ficus microcarpa bonsai Kiev",
+     "archivo": "File:Ficus microcarpa bonsai Kiev.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ficus_microcarpa_bonsai_Kiev.jpg/960px-Ficus_microcarpa_bonsai_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Аимаина хикари",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus_microcarpa_bonsai_Kiev.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Ficus Microcarpa Bot Zahr Praha",
+     "archivo": "File:2023 Bonsai Ficus Microcarpa Bot Zahr Praha.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2023_Bonsai_Ficus_Microcarpa_Bot_Zahr_Praha.jpg/960px-2023_Bonsai_Ficus_Microcarpa_Bot_Zahr_Praha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Ficus_Microcarpa_Bot_Zahr_Praha.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Ficus-microcarpa-SF22257-03",
+     "archivo": "File:Ficus-microcarpa-SF22257-03.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ficus-microcarpa-SF22257-03.jpg/960px-Ficus-microcarpa-SF22257-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Steve Fitzgerald",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus-microcarpa-SF22257-03.jpg"
+    },
+    {
+     "titulo": "Ficus-microcarpa-SF22183-03",
+     "archivo": "File:Ficus-microcarpa-SF22183-03.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ficus-microcarpa-SF22183-03.jpg/960px-Ficus-microcarpa-SF22183-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Steve Fitzgerald",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus-microcarpa-SF22183-03.jpg"
+    },
+    {
+     "titulo": "Ficus-microcarpa-SF22257-01",
+     "archivo": "File:Ficus-microcarpa-SF22257-01.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ficus-microcarpa-SF22257-01.jpg/960px-Ficus-microcarpa-SF22257-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Steve Fitzgerald",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus-microcarpa-SF22257-01.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Ficus microcarpa - La Gomera 02",
+     "archivo": "File:Ficus microcarpa - La Gomera 02.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Ficus_microcarpa_-_La_Gomera_02.jpg/960px-Ficus_microcarpa_-_La_Gomera_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "H. Zell",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus_microcarpa_-_La_Gomera_02.jpg"
+    },
+    {
+     "titulo": "(MHNT) Ficus microcarpa 'Ginseng'",
+     "archivo": "File:(MHNT) Ficus microcarpa 'Ginseng'.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%28MHNT%29_Ficus_microcarpa_%27Ginseng%27.jpg/960px-%28MHNT%29_Ficus_microcarpa_%27Ginseng%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1104,
+     "autor": "Didier Descouens",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(MHNT)_Ficus_microcarpa_%27Ginseng%27.jpg"
+    },
+    {
+     "titulo": "Ficus microcarpa Ipswich Rd Annerley Junction P1060027",
+     "archivo": "File:Ficus microcarpa Ipswich Rd Annerley Junction P1060027.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ficus_microcarpa_Ipswich_Rd_Annerley_Junction_P1060027.jpg/960px-Ficus_microcarpa_Ipswich_Rd_Annerley_Junction_P1060027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "John Robert McPherson",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus_microcarpa_Ipswich_Rd_Annerley_Junction_P1060027.jpg"
+    }
+   ]
+  },
+  "ficus-benjamina": {
+   "bonsai": [
+    {
+     "titulo": "Starr-080117-1671-Ficus benjamina-bonsai-Walmart Kahului-Maui (24807190361)",
+     "archivo": "File:Starr-080117-1671-Ficus benjamina-bonsai-Walmart Kahului-Maui (24807190361).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Starr-080117-1671-Ficus_benjamina-bonsai-Walmart_Kahului-Maui_%2824807190361%29.jpg/960px-Starr-080117-1671-Ficus_benjamina-bonsai-Walmart_Kahului-Maui_%2824807190361%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-080117-1671-Ficus_benjamina-bonsai-Walmart_Kahului-Maui_(24807190361).jpg"
+    },
+    {
+     "titulo": "Starr-080117-1896-Ficus benjamina-bonsai-Home Depot Nursery Kahului-Maui (24783270722)",
+     "archivo": "File:Starr-080117-1896-Ficus benjamina-bonsai-Home Depot Nursery Kahului-Maui (24783270722).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Starr-080117-1896-Ficus_benjamina-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824783270722%29.jpg/960px-Starr-080117-1896-Ficus_benjamina-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824783270722%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-080117-1896-Ficus_benjamina-bonsai-Home_Depot_Nursery_Kahului-Maui_(24783270722).jpg"
+    },
+    {
+     "titulo": "Formal Upright Ficus Bonsai",
+     "archivo": "File:Formal Upright Ficus Bonsai.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Formal_Upright_Ficus_Bonsai.jpg/960px-Formal_Upright_Ficus_Bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 475,
+     "autor": "Tom Kehoe",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Formal_Upright_Ficus_Bonsai.jpg"
+    },
+    {
+     "titulo": "Bonsai Ficus benjamina in the Serpentine Room at Phipps Conservatory, 2026-03-21",
+     "archivo": "File:Bonsai Ficus benjamina in the Serpentine Room at Phipps Conservatory, 2026-03-21.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bonsai_Ficus_benjamina_in_the_Serpentine_Room_at_Phipps_Conservatory%2C_2026-03-21.jpg/960px-Bonsai_Ficus_benjamina_in_the_Serpentine_Room_at_Phipps_Conservatory%2C_2026-03-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Cbaile19",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_Ficus_benjamina_in_the_Serpentine_Room_at_Phipps_Conservatory,_2026-03-21.jpg"
+    },
+    {
+     "titulo": "Penjing Ficus benjamina 1072",
+     "archivo": "File:Penjing Ficus benjamina 1072.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Penjing_Ficus_benjamina_1072.jpg/960px-Penjing_Ficus_benjamina_1072.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1046,
+     "autor": "Desconocido",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Penjing_Ficus_benjamina_1072.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Ficus benjamina leaves and figs",
+     "archivo": "File:Ficus benjamina leaves and figs.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ficus_benjamina_leaves_and_figs.jpg/960px-Ficus_benjamina_leaves_and_figs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1280,
+     "autor": "Demukher2408",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus_benjamina_leaves_and_figs.jpg"
+    },
+    {
+     "titulo": "2026-03-25 Ficus benjamina (Boquete) 1410406",
+     "archivo": "File:2026-03-25 Ficus benjamina (Boquete) 1410406.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2026-03-25_Ficus_benjamina_%28Boquete%29_1410406.jpg/960px-2026-03-25_Ficus_benjamina_%28Boquete%29_1410406.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 541,
+     "autor": "Bärbel Miemietz",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2026-03-25_Ficus_benjamina_(Boquete)_1410406.jpg"
+    },
+    {
+     "titulo": "Ficus benjamina leaves (2)",
+     "archivo": "File:Ficus benjamina leaves (2).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ficus_benjamina_leaves_%282%29.jpg/960px-Ficus_benjamina_leaves_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Thamizhpparithi Maari",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus_benjamina_leaves_(2).jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Ficus benjamina-weeping fig-benjamin fig 04",
+     "archivo": "File:Ficus benjamina-weeping fig-benjamin fig 04.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ficus_benjamina-weeping_fig-benjamin_fig_04.jpg/960px-Ficus_benjamina-weeping_fig-benjamin_fig_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Vijayanrajapuram",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus_benjamina-weeping_fig-benjamin_fig_04.jpg"
+    },
+    {
+     "titulo": "Ficus benjamina kz01",
+     "archivo": "File:Ficus benjamina kz01.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ficus_benjamina_kz01.jpg/960px-Ficus_benjamina_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Krzysztof Ziarnek, Kenraiz",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus_benjamina_kz01.jpg"
+    },
+    {
+     "titulo": "Ficus benjamina, Mackay bengamina roots on Melaleuca 70",
+     "archivo": "File:Ficus benjamina, Mackay bengamina roots on Melaleuca 70.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ficus_benjamina%2C_Mackay_bengamina_roots_on_Melaleuca_70.jpg/960px-Ficus_benjamina%2C_Mackay_bengamina_roots_on_Melaleuca_70.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1033,
+     "autor": "John Robert McPherson",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ficus_benjamina,_Mackay_bengamina_roots_on_Melaleuca_70.jpg"
+    }
+   ]
+  },
+  "carmona": {
+   "bonsai": [
+    {
+     "titulo": "Carmona retusa - Bonsai - Alipore - Kolkata 2013-02-10 4669",
+     "archivo": "File:Carmona retusa - Bonsai - Alipore - Kolkata 2013-02-10 4669.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Carmona_retusa_-_Bonsai_-_Alipore_-_Kolkata_2013-02-10_4669.JPG/960px-Carmona_retusa_-_Bonsai_-_Alipore_-_Kolkata_2013-02-10_4669.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1083,
+     "autor": "Biswarup Ganguly",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Carmona_retusa_-_Bonsai_-_Alipore_-_Kolkata_2013-02-10_4669.JPG"
+    },
+    {
+     "titulo": "Starr-080117-1890-Carmona retusa-bonsai-Home Depot Nursery Kahului-Maui (24874862736)",
+     "archivo": "File:Starr-080117-1890-Carmona retusa-bonsai-Home Depot Nursery Kahului-Maui (24874862736).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Starr-080117-1890-Carmona_retusa-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824874862736%29.jpg/960px-Starr-080117-1890-Carmona_retusa-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824874862736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-080117-1890-Carmona_retusa-bonsai-Home_Depot_Nursery_Kahului-Maui_(24874862736).jpg"
+    },
+    {
+     "titulo": "Starr-080117-1889-Carmona retusa-bonsai-Home Depot Nursery Kahului-Maui (24807789891)",
+     "archivo": "File:Starr-080117-1889-Carmona retusa-bonsai-Home Depot Nursery Kahului-Maui (24807789891).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Starr-080117-1889-Carmona_retusa-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824807789891%29.jpg/960px-Starr-080117-1889-Carmona_retusa-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824807789891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-080117-1889-Carmona_retusa-bonsai-Home_Depot_Nursery_Kahului-Maui_(24807789891).jpg"
+    },
+    {
+     "titulo": "Starr-110209-0623-Carmona retusa-bonsai habit-Resort Management Group Nursery Kihei-Maui (24778546240)",
+     "archivo": "File:Starr-110209-0623-Carmona retusa-bonsai habit-Resort Management Group Nursery Kihei-Maui (24778546240).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Starr-110209-0623-Carmona_retusa-bonsai_habit-Resort_Management_Group_Nursery_Kihei-Maui_%2824778546240%29.jpg/960px-Starr-110209-0623-Carmona_retusa-bonsai_habit-Resort_Management_Group_Nursery_Kihei-Maui_%2824778546240%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-110209-0623-Carmona_retusa-bonsai_habit-Resort_Management_Group_Nursery_Kihei-Maui_(24778546240).jpg"
+    },
+    {
+     "titulo": "Starr-110209-0619-Carmona retusa-bonsai habit-Resort Management Group Nursery Kihei-Maui (24447278993)",
+     "archivo": "File:Starr-110209-0619-Carmona retusa-bonsai habit-Resort Management Group Nursery Kihei-Maui (24447278993).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Starr-110209-0619-Carmona_retusa-bonsai_habit-Resort_Management_Group_Nursery_Kihei-Maui_%2824447278993%29.jpg/960px-Starr-110209-0619-Carmona_retusa-bonsai_habit-Resort_Management_Group_Nursery_Kihei-Maui_%2824447278993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-110209-0619-Carmona_retusa-bonsai_habit-Resort_Management_Group_Nursery_Kihei-Maui_(24447278993).jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Starr 010425-0050 Carmona retusa",
+     "archivo": "File:Starr 010425-0050 Carmona retusa.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Starr_010425-0050_Carmona_retusa.jpg/960px-Starr_010425-0050_Carmona_retusa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest &amp; Kim Starr",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr_010425-0050_Carmona_retusa.jpg"
+    },
+    {
+     "titulo": "Starr 010425-0051 Carmona retusa",
+     "archivo": "File:Starr 010425-0051 Carmona retusa.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Starr_010425-0051_Carmona_retusa.jpg/960px-Starr_010425-0051_Carmona_retusa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest &amp; Kim Starr",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr_010425-0051_Carmona_retusa.jpg"
+    },
+    {
+     "titulo": "Starr-120229-2773-Carmona retusa-leaves-Waikapu Valley-Maui (25109693166)",
+     "archivo": "File:Starr-120229-2773-Carmona retusa-leaves-Waikapu Valley-Maui (25109693166).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Starr-120229-2773-Carmona_retusa-leaves-Waikapu_Valley-Maui_%2825109693166%29.jpg/960px-Starr-120229-2773-Carmona_retusa-leaves-Waikapu_Valley-Maui_%2825109693166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-120229-2773-Carmona_retusa-leaves-Waikapu_Valley-Maui_(25109693166).jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Ehretia microphylla hukumangi03",
+     "archivo": "File:Ehretia microphylla hukumangi03.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ehretia_microphylla_hukumangi03.jpg/960px-Ehretia_microphylla_hukumangi03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Keisotyo",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ehretia_microphylla_hukumangi03.jpg"
+    },
+    {
+     "titulo": "Starr 010425-0048 Carmona retusa",
+     "archivo": "File:Starr 010425-0048 Carmona retusa.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Starr_010425-0048_Carmona_retusa.jpg/960px-Starr_010425-0048_Carmona_retusa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest &amp; Kim Starr",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr_010425-0048_Carmona_retusa.jpg"
+    },
+    {
+     "titulo": "Ehretia microphylla hukumangi01",
+     "archivo": "File:Ehretia microphylla hukumangi01.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ehretia_microphylla_hukumangi01.jpg/960px-Ehretia_microphylla_hukumangi01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Keisotyo",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ehretia_microphylla_hukumangi01.jpg"
+    }
+   ]
+  },
+  "portulacaria": {
+   "bonsai": [
+    {
+     "titulo": "Portulacaria afra (bonsai) D220524",
+     "archivo": "File:Portulacaria afra (bonsai) D220524.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Portulacaria_afra_%28bonsai%29_D220524.jpg/960px-Portulacaria_afra_%28bonsai%29_D220524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Tangopaso",
+     "licencia": "Public domain",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Portulacaria_afra_(bonsai)_D220524.jpg"
+    },
+    {
+     "titulo": "Portulacaria afra (bonsai)",
+     "archivo": "File:Portulacaria afra (bonsai).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Portulacaria_afra_%28bonsai%29.jpg/960px-Portulacaria_afra_%28bonsai%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Tangopaso",
+     "licencia": "Public domain",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Portulacaria_afra_(bonsai).jpg"
+    },
+    {
+     "titulo": "Japanese garden Portulacaria Afra Bonsai in Planetanya",
+     "archivo": "File:Japanese garden Portulacaria Afra Bonsai in Planetanya.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Japanese_garden_Portulacaria_Afra_Bonsai_in_Planetanya.jpg/960px-Japanese_garden_Portulacaria_Afra_Bonsai_in_Planetanya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1558,
+     "autor": "McKaby",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Japanese_garden_Portulacaria_Afra_Bonsai_in_Planetanya.jpg"
+    },
+    {
+     "titulo": "Portulacaria afra-1-bonsai-yercaud-salem-India",
+     "archivo": "File:Portulacaria afra-1-bonsai-yercaud-salem-India.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Portulacaria_afra-1-bonsai-yercaud-salem-India.JPG/960px-Portulacaria_afra-1-bonsai-yercaud-salem-India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Yercaud-elango",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Portulacaria_afra-1-bonsai-yercaud-salem-India.JPG"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Starr-110307-2005-Portulacaria afra-leaves-Kula Botanical Garden-Maui (24959255192)",
+     "archivo": "File:Starr-110307-2005-Portulacaria afra-leaves-Kula Botanical Garden-Maui (24959255192).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Starr-110307-2005-Portulacaria_afra-leaves-Kula_Botanical_Garden-Maui_%2824959255192%29.jpg/960px-Starr-110307-2005-Portulacaria_afra-leaves-Kula_Botanical_Garden-Maui_%2824959255192%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-110307-2005-Portulacaria_afra-leaves-Kula_Botanical_Garden-Maui_(24959255192).jpg"
+    },
+    {
+     "titulo": "Starr-080607-7170-Portulacaria afra-stem and leaves-4211 Commodore Ave Sand Island-Midway Atoll (24797697452)",
+     "archivo": "File:Starr-080607-7170-Portulacaria afra-stem and leaves-4211 Commodore Ave Sand Island-Midway Atoll (24797697452).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Starr-080607-7170-Portulacaria_afra-stem_and_leaves-4211_Commodore_Ave_Sand_Island-Midway_Atoll_%2824797697452%29.jpg/960px-Starr-080607-7170-Portulacaria_afra-stem_and_leaves-4211_Commodore_Ave_Sand_Island-Midway_Atoll_%2824797697452%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-080607-7170-Portulacaria_afra-stem_and_leaves-4211_Commodore_Ave_Sand_Island-Midway_Atoll_(24797697452).jpg"
+    },
+    {
+     "titulo": "Starr-080607-7171-Portulacaria afra-stem and leaves-4211 Commodore Ave Sand Island-Midway Atoll (24889347016)",
+     "archivo": "File:Starr-080607-7171-Portulacaria afra-stem and leaves-4211 Commodore Ave Sand Island-Midway Atoll (24889347016).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Starr-080607-7171-Portulacaria_afra-stem_and_leaves-4211_Commodore_Ave_Sand_Island-Midway_Atoll_%2824889347016%29.jpg/960px-Starr-080607-7171-Portulacaria_afra-stem_and_leaves-4211_Commodore_Ave_Sand_Island-Midway_Atoll_%2824889347016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-080607-7171-Portulacaria_afra-stem_and_leaves-4211_Commodore_Ave_Sand_Island-Midway_Atoll_(24889347016).jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Portulacaria afra 02",
+     "archivo": "File:Portulacaria afra 02.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Portulacaria_afra_02.JPG/960px-Portulacaria_afra_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Dinkum",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Portulacaria_afra_02.JPG"
+    },
+    {
+     "titulo": "Yaiza La Hoya - LZ-2-LZ-703 - Portulacaria afra 10 ies",
+     "archivo": "File:Yaiza La Hoya - LZ-2-LZ-703 - Portulacaria afra 10 ies.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Yaiza_La_Hoya_-_LZ-2-LZ-703_-_Portulacaria_afra_10_ies.jpg/960px-Yaiza_La_Hoya_-_LZ-2-LZ-703_-_Portulacaria_afra_10_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1080,
+     "autor": "Frank Vincentz",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Yaiza_La_Hoya_-_LZ-2-LZ-703_-_Portulacaria_afra_10_ies.jpg"
+    },
+    {
+     "titulo": "Portulacaria afra kz01",
+     "archivo": "File:Portulacaria afra kz01.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Portulacaria_afra_kz01.jpg/960px-Portulacaria_afra_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Krzysztof Ziarnek, Kenraiz",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Portulacaria_afra_kz01.jpg"
+    }
+   ]
+  },
+  "serissa": {
+   "bonsai": [
+    {
+     "titulo": "Serissa foetida bonsai RappVa",
+     "archivo": "File:Serissa foetida bonsai RappVa.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Serissa_foetida_bonsai_RappVa.jpg/960px-Serissa_foetida_bonsai_RappVa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 918,
+     "autor": "Djlayton4, Daniel J. Layton",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Serissa_foetida_bonsai_RappVa.jpg"
+    },
+    {
+     "titulo": "Starr-080117-1891-Serissa foetida-bonsai-Home Depot Nursery Kahului-Maui (24807796921)",
+     "archivo": "File:Starr-080117-1891-Serissa foetida-bonsai-Home Depot Nursery Kahului-Maui (24807796921).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Starr-080117-1891-Serissa_foetida-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824807796921%29.jpg/960px-Starr-080117-1891-Serissa_foetida-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824807796921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-080117-1891-Serissa_foetida-bonsai-Home_Depot_Nursery_Kahului-Maui_(24807796921).jpg"
+    },
+    {
+     "titulo": "Starr-080117-1892-Serissa foetida-bonsai-Home Depot Nursery Kahului-Maui (24874874256)",
+     "archivo": "File:Starr-080117-1892-Serissa foetida-bonsai-Home Depot Nursery Kahului-Maui (24874874256).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Starr-080117-1892-Serissa_foetida-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824874874256%29.jpg/960px-Starr-080117-1892-Serissa_foetida-bonsai-Home_Depot_Nursery_Kahului-Maui_%2824874874256%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-080117-1892-Serissa_foetida-bonsai-Home_Depot_Nursery_Kahului-Maui_(24874874256).jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Starr-090421-6221-Serissa foetida-flowers and leaves-Pukalani-Maui (24859010291)",
+     "archivo": "File:Starr-090421-6221-Serissa foetida-flowers and leaves-Pukalani-Maui (24859010291).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Starr-090421-6221-Serissa_foetida-flowers_and_leaves-Pukalani-Maui_%2824859010291%29.jpg/960px-Starr-090421-6221-Serissa_foetida-flowers_and_leaves-Pukalani-Maui_%2824859010291%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-090421-6221-Serissa_foetida-flowers_and_leaves-Pukalani-Maui_(24859010291).jpg"
+    },
+    {
+     "titulo": "Starr-110307-2880-Serissa foetida-flowers and leaves-Kula Botanical Garden-Maui (24960803352)",
+     "archivo": "File:Starr-110307-2880-Serissa foetida-flowers and leaves-Kula Botanical Garden-Maui (24960803352).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Starr-110307-2880-Serissa_foetida-flowers_and_leaves-Kula_Botanical_Garden-Maui_%2824960803352%29.jpg/960px-Starr-110307-2880-Serissa_foetida-flowers_and_leaves-Kula_Botanical_Garden-Maui_%2824960803352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-110307-2880-Serissa_foetida-flowers_and_leaves-Kula_Botanical_Garden-Maui_(24960803352).jpg"
+    },
+    {
+     "titulo": "Starr-090421-6219-Serissa foetida-flowers and leaves-Pukalani-Maui (24926029116)",
+     "archivo": "File:Starr-090421-6219-Serissa foetida-flowers and leaves-Pukalani-Maui (24926029116).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Starr-090421-6219-Serissa_foetida-flowers_and_leaves-Pukalani-Maui_%2824926029116%29.jpg/960px-Starr-090421-6219-Serissa_foetida-flowers_and_leaves-Pukalani-Maui_%2824926029116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-090421-6219-Serissa_foetida-flowers_and_leaves-Pukalani-Maui_(24926029116).jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Serissa japonica 2",
+     "archivo": "File:Serissa japonica 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Serissa_japonica_2.jpg/960px-Serissa_japonica_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "bastus917",
+     "licencia": "CC BY-SA 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Serissa_japonica_2.jpg"
+    },
+    {
+     "titulo": "Serissa japonica fma. polymerum (Thunb.) Thunb. in Nov. Gen. Pl. 9- 132 (1798) 20240508 205449",
+     "archivo": "File:Serissa japonica fma. polymerum (Thunb.) Thunb. in Nov. Gen. Pl. 9- 132 (1798) 20240508 205449.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Serissa_japonica_fma._polymerum_%28Thunb.%29_Thunb._in_Nov._Gen._Pl._9-_132_%281798%29_20240508_205449.jpg/960px-Serissa_japonica_fma._polymerum_%28Thunb.%29_Thunb._in_Nov._Gen._Pl._9-_132_%281798%29_20240508_205449.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Motohiro Sunouchi",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Serissa_japonica_fma._polymerum_(Thunb.)_Thunb._in_Nov._Gen._Pl._9-_132_(1798)_20240508_205449.jpg"
+    },
+    {
+     "titulo": "Serissa japonica 1",
+     "archivo": "File:Serissa japonica 1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Serissa_japonica_1.jpg/960px-Serissa_japonica_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "bastus917",
+     "licencia": "CC BY-SA 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Serissa_japonica_1.jpg"
+    }
+   ]
+  },
+  "schefflera": {
+   "bonsai": [
+    {
+     "titulo": "Schefflera arboricola (bonsai), Phipps Conservatory, 2014-03-01",
+     "archivo": "File:Schefflera arboricola (bonsai), Phipps Conservatory, 2014-03-01.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Schefflera_arboricola_%28bonsai%29%2C_Phipps_Conservatory%2C_2014-03-01.jpg/960px-Schefflera_arboricola_%28bonsai%29%2C_Phipps_Conservatory%2C_2014-03-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Cbaile19",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Schefflera_arboricola_(bonsai),_Phipps_Conservatory,_2014-03-01.jpg"
+    },
+    {
+     "titulo": "Schefflera arboricola bonsai",
+     "archivo": "File:Schefflera arboricola bonsai.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Schefflera_arboricola_bonsai.jpg/960px-Schefflera_arboricola_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 534,
+     "autor": "Nadiatalent",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Schefflera_arboricola_bonsai.jpg"
+    },
+    {
+     "titulo": "Schefflera bonsai 2",
+     "archivo": "File:Schefflera bonsai 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Schefflera_bonsai_2.jpg/960px-Schefflera_bonsai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Tangopaso",
+     "licencia": "Public domain",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Schefflera_bonsai_2.jpg"
+    },
+    {
+     "titulo": "Schefflera bonsai 1",
+     "archivo": "File:Schefflera bonsai 1.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Schefflera_bonsai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 628,
+     "autor": "Emmanuelm (talk)",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Schefflera_bonsai_1.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Dwarf umbrella tree (Schefflera arboricola)",
+     "archivo": "File:Dwarf umbrella tree (Schefflera arboricola).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Dwarf_umbrella_tree_%28Schefflera_arboricola%29.jpg/960px-Dwarf_umbrella_tree_%28Schefflera_arboricola%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 868,
+     "autor": "Dandy1022",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Dwarf_umbrella_tree_(Schefflera_arboricola).jpg"
+    },
+    {
+     "titulo": "Leaves Schefflera arboricola 2009",
+     "archivo": "File:Leaves Schefflera arboricola 2009.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Leaves_Schefflera_arboricola_2009.jpg/960px-Leaves_Schefflera_arboricola_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Shack",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Leaves_Schefflera_arboricola_2009.jpg"
+    },
+    {
+     "titulo": "Starr 071024-0388 Schefflera arboricola",
+     "archivo": "File:Starr 071024-0388 Schefflera arboricola.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Starr_071024-0388_Schefflera_arboricola.jpg/960px-Starr_071024-0388_Schefflera_arboricola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest &amp; Kim Starr",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr_071024-0388_Schefflera_arboricola.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Schefflera arboricola, vrugte, a, Pretoria",
+     "archivo": "File:Schefflera arboricola, vrugte, a, Pretoria.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Schefflera_arboricola%2C_vrugte%2C_a%2C_Pretoria.jpg/960px-Schefflera_arboricola%2C_vrugte%2C_a%2C_Pretoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "JMK",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Schefflera_arboricola,_vrugte,_a,_Pretoria.jpg"
+    },
+    {
+     "titulo": "Schefflera arboricola = Heptapleurum arboricola (Araliaceae) (50041889661)",
+     "archivo": "File:Schefflera arboricola = Heptapleurum arboricola (Araliaceae) (50041889661).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Schefflera_arboricola_%3D_Heptapleurum_arboricola_%28Araliaceae%29_%2850041889661%29.jpg/960px-Schefflera_arboricola_%3D_Heptapleurum_arboricola_%28Araliaceae%29_%2850041889661%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1080,
+     "autor": "Dr. Alexey Yakovlev",
+     "licencia": "CC BY-SA 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Schefflera_arboricola_%3D_Heptapleurum_arboricola_(Araliaceae)_(50041889661).jpg"
+    },
+    {
+     "titulo": "Schefflera arboricola (domesticated) in Florida",
+     "archivo": "File:Schefflera arboricola (domesticated) in Florida.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Schefflera_arboricola_%28domesticated%29_in_Florida.jpg/960px-Schefflera_arboricola_%28domesticated%29_in_Florida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "P,TO 19104",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Schefflera_arboricola_(domesticated)_in_Florida.jpg"
+    }
+   ]
+  },
+  "murraya": {
+   "bonsai": [
+    {
+     "titulo": "Murraya paniculata bonsai, JBM",
+     "archivo": "File:Murraya paniculata bonsai, JBM.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Murraya_paniculata_bonsai%2C_JBM.jpg/960px-Murraya_paniculata_bonsai%2C_JBM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 865,
+     "autor": "Sandstein",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Murraya_paniculata_bonsai,_JBM.jpg"
+    },
+    {
+     "titulo": "Bonsai of Murraya paniculata 03",
+     "archivo": "File:Bonsai of Murraya paniculata 03.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Bonsai_of_Murraya_paniculata_03.jpg/960px-Bonsai_of_Murraya_paniculata_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Mmrsafy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_of_Murraya_paniculata_03.jpg"
+    },
+    {
+     "titulo": "Bonsai of Murraya paniculata 02",
+     "archivo": "File:Bonsai of Murraya paniculata 02.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Bonsai_of_Murraya_paniculata_02.jpg/960px-Bonsai_of_Murraya_paniculata_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 544,
+     "autor": "Mmrsafy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_of_Murraya_paniculata_02.jpg"
+    },
+    {
+     "titulo": "Bonsai of Murraya paniculata 01",
+     "archivo": "File:Bonsai of Murraya paniculata 01.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bonsai_of_Murraya_paniculata_01.jpg/960px-Bonsai_of_Murraya_paniculata_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 523,
+     "autor": "Mmrsafy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_of_Murraya_paniculata_01.jpg"
+    },
+    {
+     "titulo": "Murraya paniculata - Bonsai - Kolkata 2013-11-10 4460",
+     "archivo": "File:Murraya paniculata - Bonsai - Kolkata 2013-11-10 4460.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Murraya_paniculata_-_Bonsai_-_Kolkata_2013-11-10_4460.JPG/960px-Murraya_paniculata_-_Bonsai_-_Kolkata_2013-11-10_4460.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1083,
+     "autor": "Biswarup Ganguly",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Murraya_paniculata_-_Bonsai_-_Kolkata_2013-11-10_4460.JPG"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Starr 030415-0007 Murraya paniculata",
+     "archivo": "File:Starr 030415-0007 Murraya paniculata.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Starr_030415-0007_Murraya_paniculata.jpg/960px-Starr_030415-0007_Murraya_paniculata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest &amp; Kim Starr",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr_030415-0007_Murraya_paniculata.jpg"
+    },
+    {
+     "titulo": "Murraya paniculata leaves at Peravoor",
+     "archivo": "File:Murraya paniculata leaves at Peravoor.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Murraya_paniculata_leaves_at_Peravoor.jpg/960px-Murraya_paniculata_leaves_at_Peravoor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Vinayaraj",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Murraya_paniculata_leaves_at_Peravoor.jpg"
+    },
+    {
+     "titulo": "Starr 030415-0008 Murraya paniculata",
+     "archivo": "File:Starr 030415-0008 Murraya paniculata.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Starr_030415-0008_Murraya_paniculata.jpg/960px-Starr_030415-0008_Murraya_paniculata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest &amp; Kim Starr",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr_030415-0008_Murraya_paniculata.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Murraya paniculata 2",
+     "archivo": "File:Murraya paniculata 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Murraya_paniculata_2.jpg/960px-Murraya_paniculata_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Chiring chandan",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Murraya_paniculata_2.jpg"
+    },
+    {
+     "titulo": "Murraya paniculata 3",
+     "archivo": "File:Murraya paniculata 3.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Murraya_paniculata_3.jpg/960px-Murraya_paniculata_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Chiring chandan",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Murraya_paniculata_3.jpg"
+    },
+    {
+     "titulo": "Murraya paniculata flower",
+     "archivo": "File:Murraya paniculata flower.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Murraya_paniculata_flower.jpg/960px-Murraya_paniculata_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "AjayDas",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Murraya_paniculata_flower.jpg"
+    }
+   ]
+  },
+  "buganvilla": {
+   "bonsai": [
+    {
+     "titulo": "Bonsai -- Bougainvillea (1461488575)",
+     "archivo": "File:Bonsai -- Bougainvillea (1461488575).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bonsai_--_Bougainvillea_%281461488575%29.jpg/960px-Bonsai_--_Bougainvillea_%281461488575%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Dinesh Valke from Thane, India",
+     "licencia": "CC BY-SA 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_--_Bougainvillea_(1461488575).jpg"
+    },
+    {
+     "titulo": "Bougainvillea spectabilis Bonsai House Brisbane Botanic Gardens Mt Coot-thaP1090645",
+     "archivo": "File:Bougainvillea spectabilis Bonsai House Brisbane Botanic Gardens Mt Coot-thaP1090645.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bougainvillea_spectabilis_Bonsai_House_Brisbane_Botanic_Gardens_Mt_Coot-thaP1090645.jpg/960px-Bougainvillea_spectabilis_Bonsai_House_Brisbane_Botanic_Gardens_Mt_Coot-thaP1090645.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "John Robert McPherson",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bougainvillea_spectabilis_Bonsai_House_Brisbane_Botanic_Gardens_Mt_Coot-thaP1090645.jpg"
+    },
+    {
+     "titulo": "Flowering Bougainvillea Bonsai",
+     "archivo": "File:Flowering Bougainvillea Bonsai.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Flowering_Bougainvillea_Bonsai.jpg/960px-Flowering_Bougainvillea_Bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Thebestbonsai",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Flowering_Bougainvillea_Bonsai.jpg"
+    },
+    {
+     "titulo": "Bougainvillea bonsai plant",
+     "archivo": "File:Bougainvillea bonsai plant.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Bougainvillea_bonsai_plant.jpg/960px-Bougainvillea_bonsai_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Derk29",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bougainvillea_bonsai_plant.jpg"
+    },
+    {
+     "titulo": "Bougainvillea bonsai 2026",
+     "archivo": "File:Bougainvillea bonsai 2026.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bougainvillea_bonsai_2026.jpg/960px-Bougainvillea_bonsai_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Derk29",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bougainvillea_bonsai_2026.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Bougainvillea glabra (Paper flower) leaves in RDA, Bogra",
+     "archivo": "File:Bougainvillea glabra (Paper flower) leaves in RDA, Bogra.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bougainvillea_glabra_%28Paper_flower%29_leaves_in_RDA%2C_Bogra.jpg/960px-Bougainvillea_glabra_%28Paper_flower%29_leaves_in_RDA%2C_Bogra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Afifa Afrin",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bougainvillea_glabra_(Paper_flower)_leaves_in_RDA,_Bogra.jpg"
+    },
+    {
+     "titulo": "Bougainvillea glabra 2017-09-28 5295",
+     "archivo": "File:Bougainvillea glabra 2017-09-28 5295.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bougainvillea_glabra_2017-09-28_5295.jpg/960px-Bougainvillea_glabra_2017-09-28_5295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Salicyna",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bougainvillea_glabra_2017-09-28_5295.jpg"
+    },
+    {
+     "titulo": "Bougainvillea glabra blossom - Thailand 2",
+     "archivo": "File:Bougainvillea glabra blossom - Thailand 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bougainvillea_glabra_blossom_-_Thailand_2.jpg/960px-Bougainvillea_glabra_blossom_-_Thailand_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "User:Mattes",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bougainvillea_glabra_blossom_-_Thailand_2.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Bougainvillea 001",
+     "archivo": "File:Bougainvillea 001.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bougainvillea_001.jpg/960px-Bougainvillea_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 485,
+     "autor": "H. Zell",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bougainvillea_001.jpg"
+    },
+    {
+     "titulo": "Bougainvillea glabra–IMG 5969",
+     "archivo": "File:Bougainvillea glabra–IMG 5969.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bougainvillea_glabra%E2%80%93IMG_5969.jpg/960px-Bougainvillea_glabra%E2%80%93IMG_5969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Kızıl",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bougainvillea_glabra%E2%80%93IMG_5969.jpg"
+    },
+    {
+     "titulo": "Pink paperflowers (Bougainvillea glabra)",
+     "archivo": "File:Pink paperflowers (Bougainvillea glabra).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Pink_paperflowers_%28Bougainvillea_glabra%29.jpg/960px-Pink_paperflowers_%28Bougainvillea_glabra%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Vitaium",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pink_paperflowers_(Bougainvillea_glabra).jpg"
+    }
+   ]
+  },
+  "olmo-chino": {
+   "bonsai": [
+    {
+     "titulo": "Ulmus parvifolia bonsai, Longwood Gardens 2022",
+     "archivo": "File:Ulmus parvifolia bonsai, Longwood Gardens 2022.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ulmus_parvifolia_bonsai%2C_Longwood_Gardens_2022.jpg/960px-Ulmus_parvifolia_bonsai%2C_Longwood_Gardens_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Shuvaev",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ulmus_parvifolia_bonsai,_Longwood_Gardens_2022.jpg"
+    },
+    {
+     "titulo": "Ulmus parvifolia bonsai - Longwood Gardens - DSC01263",
+     "archivo": "File:Ulmus parvifolia bonsai - Longwood Gardens - DSC01263.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ulmus_parvifolia_bonsai_-_Longwood_Gardens_-_DSC01263.JPG/960px-Ulmus_parvifolia_bonsai_-_Longwood_Gardens_-_DSC01263.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1080,
+     "autor": "Daderot",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ulmus_parvifolia_bonsai_-_Longwood_Gardens_-_DSC01263.JPG"
+    },
+    {
+     "titulo": "2023 Bonsai Ulmus Parvifolia Vladimir Ondejcik",
+     "archivo": "File:2023 Bonsai Ulmus Parvifolia Vladimir Ondejcik.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2023_Bonsai_Ulmus_Parvifolia_Vladimir_Ondejcik.jpg/960px-2023_Bonsai_Ulmus_Parvifolia_Vladimir_Ondejcik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Ulmus_Parvifolia_Vladimir_Ondejcik.jpg"
+    },
+    {
+     "titulo": "Ulmus parvifolia bonsai at the BBG, August 2, 2008",
+     "archivo": "File:Ulmus parvifolia bonsai at the BBG, August 2, 2008.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ulmus_parvifolia_bonsai_at_the_BBG%2C_August_2%2C_2008.jpg/960px-Ulmus_parvifolia_bonsai_at_the_BBG%2C_August_2%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 536,
+     "autor": "Ragesoss",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ulmus_parvifolia_bonsai_at_the_BBG,_August_2,_2008.jpg"
+    },
+    {
+     "titulo": "Ulmus parvifolia bonsai",
+     "archivo": "File:Ulmus parvifolia bonsai.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ulmus_parvifolia_bonsai.jpg/960px-Ulmus_parvifolia_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ulmus_parvifolia_bonsai.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Ulmus parvifolia leaves and fruit",
+     "archivo": "File:Ulmus parvifolia leaves and fruit.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ulmus_parvifolia_leaves_and_fruit.jpg/960px-Ulmus_parvifolia_leaves_and_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Gmihail at Serbian Wikipedia",
+     "licencia": "CC BY-SA 3.0 rs",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ulmus_parvifolia_leaves_and_fruit.jpg"
+    },
+    {
+     "titulo": "RN Ulmus parvifolia leaves and seeds",
+     "archivo": "File:RN Ulmus parvifolia leaves and seeds.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/RN_Ulmus_parvifolia_leaves_and_seeds.JPG/960px-RN_Ulmus_parvifolia_leaves_and_seeds.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 575,
+     "autor": "Ronnie Nijboer",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:RN_Ulmus_parvifolia_leaves_and_seeds.JPG"
+    },
+    {
+     "titulo": "Ulmus parvifolia leaves-5-01-05",
+     "archivo": "File:Ulmus parvifolia leaves-5-01-05.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ulmus_parvifolia_leaves-5-01-05.jpg/960px-Ulmus_parvifolia_leaves-5-01-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Thayne Tuason",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ulmus_parvifolia_leaves-5-01-05.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Chinese Elm Ulmus parvifolia (32-0052-A) Bark 1",
+     "archivo": "File:Chinese Elm Ulmus parvifolia (32-0052-A) Bark 1.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chinese_Elm_Ulmus_parvifolia_%2832-0052-A%29_Bark_1.JPG/960px-Chinese_Elm_Ulmus_parvifolia_%2832-0052-A%29_Bark_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 477,
+     "autor": "Photo by and (c)2014 Derek Ramsey (Ram-Man)",
+     "licencia": "GFDL 1.2",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Chinese_Elm_Ulmus_parvifolia_(32-0052-A)_Bark_1.JPG"
+    },
+    {
+     "titulo": "Chinese Elm Ulmus parvifolia (32-0052-A) Bark 2",
+     "archivo": "File:Chinese Elm Ulmus parvifolia (32-0052-A) Bark 2.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Chinese_Elm_Ulmus_parvifolia_%2832-0052-A%29_Bark_2.JPG/960px-Chinese_Elm_Ulmus_parvifolia_%2832-0052-A%29_Bark_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 477,
+     "autor": "Photo by and (c)2014 Derek Ramsey (Ram-Man)",
+     "licencia": "GFDL 1.2",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Chinese_Elm_Ulmus_parvifolia_(32-0052-A)_Bark_2.JPG"
+    },
+    {
+     "titulo": "RN Ulmus parvifolia (Hilversum)",
+     "archivo": "File:RN Ulmus parvifolia (Hilversum).JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/RN_Ulmus_parvifolia_%28Hilversum%29.JPG/960px-RN_Ulmus_parvifolia_%28Hilversum%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 773,
+     "autor": "Ronnie Nijboer",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:RN_Ulmus_parvifolia_(Hilversum).JPG"
+    }
+   ]
+  },
+  "arce-japones": {
+   "bonsai": [
+    {
+     "titulo": "Acer Palmatum bonsai 2",
+     "archivo": "File:Acer Palmatum bonsai 2.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Acer_Palmatum_bonsai_2.JPG/960px-Acer_Palmatum_bonsai_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Jeffrey O. Gustafson",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_Palmatum_bonsai_2.JPG"
+    },
+    {
+     "titulo": "Acer palmatum bonsai (Parc floral de Vincennes)",
+     "archivo": "File:Acer palmatum bonsai (Parc floral de Vincennes).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Acer_palmatum_bonsai_%28Parc_floral_de_Vincennes%29.jpg/960px-Acer_palmatum_bonsai_%28Parc_floral_de_Vincennes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Tangopaso",
+     "licencia": "Public domain",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_palmatum_bonsai_(Parc_floral_de_Vincennes).jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Acer Palmatum Jiri Prochazka",
+     "archivo": "File:2023 Bonsai Acer Palmatum Jiri Prochazka.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2023_Bonsai_Acer_Palmatum_Jiri_Prochazka.jpg/960px-2023_Bonsai_Acer_Palmatum_Jiri_Prochazka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Acer_Palmatum_Jiri_Prochazka.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Acer Palmatum Oldrich Kaspar",
+     "archivo": "File:2023 Bonsai Acer Palmatum Oldrich Kaspar.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2023_Bonsai_Acer_Palmatum_Oldrich_Kaspar.jpg/960px-2023_Bonsai_Acer_Palmatum_Oldrich_Kaspar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Acer_Palmatum_Oldrich_Kaspar.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Acer Palmatum Herbert Obermayer",
+     "archivo": "File:2023 Bonsai Acer Palmatum Herbert Obermayer.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2023_Bonsai_Acer_Palmatum_Herbert_Obermayer.jpg/960px-2023_Bonsai_Acer_Palmatum_Herbert_Obermayer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Acer_Palmatum_Herbert_Obermayer.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Japanse esdoorn (Acer palmatum) 03-04-2023 (d.j.b.)",
+     "archivo": "File:Japanse esdoorn (Acer palmatum) 03-04-2023 (d.j.b.).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Japanse_esdoorn_%28Acer_palmatum%29_03-04-2023_%28d.j.b.%29.jpg/960px-Japanse_esdoorn_%28Acer_palmatum%29_03-04-2023_%28d.j.b.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Dominicus Johannes Bergsma",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Japanse_esdoorn_(Acer_palmatum)_03-04-2023_(d.j.b.).jpg"
+    },
+    {
+     "titulo": "Acer palmatum 005",
+     "archivo": "File:Acer palmatum 005.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Acer_palmatum_005.JPG/960px-Acer_palmatum_005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "H. Zell",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_palmatum_005.JPG"
+    },
+    {
+     "titulo": "Acer palmatum subsp. amoenum in Hackfalls Arboretum (6)",
+     "archivo": "File:Acer palmatum subsp. amoenum in Hackfalls Arboretum (6).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Acer_palmatum_subsp._amoenum_in_Hackfalls_Arboretum_%286%29.jpg/960px-Acer_palmatum_subsp._amoenum_in_Hackfalls_Arboretum_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Krzysztof Golik",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_palmatum_subsp._amoenum_in_Hackfalls_Arboretum_(6).jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Hortus Haren (Groningen) 20-04-2025. (actm.) 13",
+     "archivo": "File:Hortus Haren (Groningen) 20-04-2025. (actm.) 13.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hortus_Haren_%28Groningen%29_20-04-2025._%28actm.%29_13.jpg/960px-Hortus_Haren_%28Groningen%29_20-04-2025._%28actm.%29_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 464,
+     "autor": "Agnes Monkelbaan",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Hortus_Haren_(Groningen)_20-04-2025._(actm.)_13.jpg"
+    },
+    {
+     "titulo": "Acer palmatum bark 1 LR",
+     "archivo": "File:Acer palmatum bark 1 LR.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Acer_palmatum_bark_1_LR.jpg/960px-Acer_palmatum_bark_1_LR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 478,
+     "autor": "PumpkinSky",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_palmatum_bark_1_LR.jpg"
+    }
+   ]
+  },
+  "arce-tridente": {
+   "bonsai": [
+    {
+     "titulo": "BonsaiTridentMaple",
+     "archivo": "File:BonsaiTridentMaple.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/BonsaiTridentMaple.jpg/960px-BonsaiTridentMaple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 469,
+     "autor": "Peggy Greb, USDA",
+     "licencia": "Public domain",
+     "pagina": "https://commons.wikimedia.org/wiki/File:BonsaiTridentMaple.jpg"
+    },
+    {
+     "titulo": "Acer Buergerianum bonsai 2",
+     "archivo": "File:Acer Buergerianum bonsai 2.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Acer_Buergerianum_bonsai_2.JPG/960px-Acer_Buergerianum_bonsai_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Jeffrey O. Gustafson",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_Buergerianum_bonsai_2.JPG"
+    },
+    {
+     "titulo": "Acer buergerianum bonsai Kyoto",
+     "archivo": "File:Acer buergerianum bonsai Kyoto.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Acer_buergerianum_bonsai_Kyoto.jpg/960px-Acer_buergerianum_bonsai_Kyoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Fritzmann2002",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_bonsai_Kyoto.jpg"
+    },
+    {
+     "titulo": "Acer Buergerianum bonsai 2a",
+     "archivo": "File:Acer Buergerianum bonsai 2a.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Acer_Buergerianum_bonsai_2a.JPG/960px-Acer_Buergerianum_bonsai_2a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Jeffrey O. Gustafson",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_Buergerianum_bonsai_2a.JPG"
+    },
+    {
+     "titulo": "Acer buergerianum bonsai Kyoto 2",
+     "archivo": "File:Acer buergerianum bonsai Kyoto 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Acer_buergerianum_bonsai_Kyoto_2.jpg/960px-Acer_buergerianum_bonsai_Kyoto_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Fritzmann2002",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_bonsai_Kyoto_2.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Acer buergerianum leaves and fruits",
+     "archivo": "File:Acer buergerianum leaves and fruits.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Acer_buergerianum_leaves_and_fruits.jpg/960px-Acer_buergerianum_leaves_and_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Gmihail at Serbian Wikipedia",
+     "licencia": "CC BY-SA 3.0 rs",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_leaves_and_fruits.jpg"
+    },
+    {
+     "titulo": "Acer buergerianum two sides of leaf",
+     "archivo": "File:Acer buergerianum two sides of leaf.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Acer_buergerianum_two_sides_of_leaf.jpg/960px-Acer_buergerianum_two_sides_of_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Gmihail at Serbian Wikipedia",
+     "licencia": "CC BY-SA 3.0 rs",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_two_sides_of_leaf.jpg"
+    },
+    {
+     "titulo": "Acer buergerianum leaf",
+     "archivo": "File:Acer buergerianum leaf.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Acer_buergerianum_leaf.jpg/960px-Acer_buergerianum_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Abrahami",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_leaf.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Morris Arboretum Acer buergerianum",
+     "archivo": "File:Morris Arboretum Acer buergerianum.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Morris_Arboretum_Acer_buergerianum.JPG/960px-Morris_Arboretum_Acer_buergerianum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Hurricanefan24",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Morris_Arboretum_Acer_buergerianum.JPG"
+    },
+    {
+     "titulo": "Acer buergerianum fruits",
+     "archivo": "File:Acer buergerianum fruits.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Acer_buergerianum_fruits.jpg/960px-Acer_buergerianum_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Gmihail at Serbian Wikipedia",
+     "licencia": "CC BY-SA 3.0 rs",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_fruits.jpg"
+    },
+    {
+     "titulo": "Acer buergerianum seeds",
+     "archivo": "File:Acer buergerianum seeds.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acer_buergerianum_seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "No machine-readable author provided. Abrahami assumed (based on copyright claims",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Acer_buergerianum_seeds.jpg"
+    }
+   ]
+  },
+  "junipero-procumbens": {
+   "bonsai": [
+    {
+     "titulo": "Juniperus procumbens bonsai 1",
+     "archivo": "File:Juniperus procumbens bonsai 1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Juniperus_procumbens_bonsai_1.jpg/960px-Juniperus_procumbens_bonsai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_procumbens_bonsai_1.jpg"
+    },
+    {
+     "titulo": "Juniperus procumbens bonsai 2",
+     "archivo": "File:Juniperus procumbens bonsai 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Juniperus_procumbens_bonsai_2.jpg/960px-Juniperus_procumbens_bonsai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_procumbens_bonsai_2.jpg"
+    },
+    {
+     "titulo": "Bonsai Juniperus procumbens",
+     "archivo": "File:Bonsai Juniperus procumbens.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Bonsai_Juniperus_procumbens.jpg/960px-Bonsai_Juniperus_procumbens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 671,
+     "autor": "No machine-readable author provided. MPF assumed (based on copyright claims).",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_Juniperus_procumbens.jpg"
+    },
+    {
+     "titulo": "Dwarf Japanese Juniper - National Bonsai & Penjing Museum - Washington, D.C. - Sarah Stierch",
+     "archivo": "File:Dwarf Japanese Juniper - National Bonsai & Penjing Museum - Washington, D.C. - Sarah Stierch.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Dwarf_Japanese_Juniper_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Sarah_Stierch.jpg/960px-Dwarf_Japanese_Juniper_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 914,
+     "autor": "Sarah Stierch",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Dwarf_Japanese_Juniper_-_National_Bonsai_%26_Penjing_Museum_-_Washington,_D.C._-_Sarah_Stierch.jpg"
+    }
+   ],
+   "hojas": [],
+   "natural": [
+    {
+     "titulo": "Juniperus procumbens nana MN 2007",
+     "archivo": "File:Juniperus procumbens nana MN 2007.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Juniperus_procumbens_nana_MN_2007.JPG/960px-Juniperus_procumbens_nana_MN_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "SEWilco",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_procumbens_nana_MN_2007.JPG"
+    },
+    {
+     "titulo": "Starr-110215-1312-Juniperus procumbens-habit-KiHana Nursery Kihei-Maui (24780459650)",
+     "archivo": "File:Starr-110215-1312-Juniperus procumbens-habit-KiHana Nursery Kihei-Maui (24780459650).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Starr-110215-1312-Juniperus_procumbens-habit-KiHana_Nursery_Kihei-Maui_%2824780459650%29.jpg/960px-Starr-110215-1312-Juniperus_procumbens-habit-KiHana_Nursery_Kihei-Maui_%2824780459650%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-110215-1312-Juniperus_procumbens-habit-KiHana_Nursery_Kihei-Maui_(24780459650).jpg"
+    },
+    {
+     "titulo": "Starr-110215-1313-Juniperus procumbens-habit-KiHana Nursery Kihei-Maui (24982747721)",
+     "archivo": "File:Starr-110215-1313-Juniperus procumbens-habit-KiHana Nursery Kihei-Maui (24982747721).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Starr-110215-1313-Juniperus_procumbens-habit-KiHana_Nursery_Kihei-Maui_%2824982747721%29.jpg/960px-Starr-110215-1313-Juniperus_procumbens-habit-KiHana_Nursery_Kihei-Maui_%2824982747721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-110215-1313-Juniperus_procumbens-habit-KiHana_Nursery_Kihei-Maui_(24982747721).jpg"
+    }
+   ]
+  },
+  "junipero-chinensis": {
+   "bonsai": [
+    {
+     "titulo": "Juniperus chinensis bonsai kz1",
+     "archivo": "File:Juniperus chinensis bonsai kz1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Juniperus_chinensis_bonsai_kz1.jpg/960px-Juniperus_chinensis_bonsai_kz1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1082,
+     "autor": "Krzysztof Ziarnek, Kenraiz",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_bonsai_kz1.jpg"
+    },
+    {
+     "titulo": "Bonsai - juniperus chinensis (1960)",
+     "archivo": "File:Bonsai - juniperus chinensis (1960).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bonsai_-_juniperus_chinensis_%281960%29.jpg/960px-Bonsai_-_juniperus_chinensis_%281960%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Matěj Baťha",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_-_juniperus_chinensis_(1960).jpg"
+    },
+    {
+     "titulo": "Juniperus chinensis bonsai",
+     "archivo": "File:Juniperus chinensis bonsai.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Juniperus_chinensis_bonsai.jpg/960px-Juniperus_chinensis_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 856,
+     "autor": "Peter coxhead",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_bonsai.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Juniperus Chinensis Julius Kolesar",
+     "archivo": "File:2023 Bonsai Juniperus Chinensis Julius Kolesar.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2023_Bonsai_Juniperus_Chinensis_Julius_Kolesar.jpg/960px-2023_Bonsai_Juniperus_Chinensis_Julius_Kolesar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Juniperus_Chinensis_Julius_Kolesar.jpg"
+    },
+    {
+     "titulo": "Juniperus chinensis sargentii bonsai",
+     "archivo": "File:Juniperus chinensis sargentii bonsai.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Juniperus_chinensis_sargentii_bonsai.JPG/960px-Juniperus_chinensis_sargentii_bonsai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Jeffrey O. Gustafson",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_sargentii_bonsai.JPG"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Juniperus chinensis 'Torulosa' foliage Emeryville Marina Park",
+     "archivo": "File:Juniperus chinensis 'Torulosa' foliage Emeryville Marina Park.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Juniperus_chinensis_%27Torulosa%27_foliage_Emeryville_Marina_Park.jpg/960px-Juniperus_chinensis_%27Torulosa%27_foliage_Emeryville_Marina_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Awinch1001",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_%27Torulosa%27_foliage_Emeryville_Marina_Park.jpg"
+    },
+    {
+     "titulo": "Juniperus chinensis at Akola1",
+     "archivo": "File:Juniperus chinensis at Akola1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Juniperus_chinensis_at_Akola1.jpg/960px-Juniperus_chinensis_at_Akola1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Yogdes",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_at_Akola1.jpg"
+    },
+    {
+     "titulo": "Juniper needles",
+     "archivo": "File:Juniper needles.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Juniper_needles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 523,
+     "autor": "MPF at English Wikipedia",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniper_needles.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Juniperus chinensis at Akola2",
+     "archivo": "File:Juniperus chinensis at Akola2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Juniperus_chinensis_at_Akola2.jpg/960px-Juniperus_chinensis_at_Akola2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Yogdes",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_at_Akola2.jpg"
+    },
+    {
+     "titulo": "Juniperus chinensis 'Shimpku' at Akola1",
+     "archivo": "File:Juniperus chinensis 'Shimpku' at Akola1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Juniperus_chinensis_%27Shimpku%27_at_Akola1.jpg/960px-Juniperus_chinensis_%27Shimpku%27_at_Akola1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1280,
+     "autor": "Yogdes",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_%27Shimpku%27_at_Akola1.jpg"
+    },
+    {
+     "titulo": "Juniperus chinensis 'Shimpku' at Akola2",
+     "archivo": "File:Juniperus chinensis 'Shimpku' at Akola2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Juniperus_chinensis_%27Shimpku%27_at_Akola2.jpg/960px-Juniperus_chinensis_%27Shimpku%27_at_Akola2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1280,
+     "autor": "Yogdes",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Juniperus_chinensis_%27Shimpku%27_at_Akola2.jpg"
+    }
+   ]
+  },
+  "pino-negro": {
+   "bonsai": [
+    {
+     "titulo": "Pinus thunbergii 'Kotobuki' bonsai, Longwood Gardens 2023",
+     "archivo": "File:Pinus thunbergii 'Kotobuki' bonsai, Longwood Gardens 2023.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Pinus_thunbergii_%27Kotobuki%27_bonsai%2C_Longwood_Gardens_2023.jpg/960px-Pinus_thunbergii_%27Kotobuki%27_bonsai%2C_Longwood_Gardens_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Shuvaev",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_%27Kotobuki%27_bonsai,_Longwood_Gardens_2023.jpg"
+    },
+    {
+     "titulo": "Pinus thunbergii bonsai 1",
+     "archivo": "File:Pinus thunbergii bonsai 1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Pinus_thunbergii_bonsai_1.jpg/960px-Pinus_thunbergii_bonsai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_bonsai_1.jpg"
+    },
+    {
+     "titulo": "Pinus thunbergii bonsai 2",
+     "archivo": "File:Pinus thunbergii bonsai 2.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pinus_thunbergii_bonsai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 981,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_bonsai_2.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Pinus Thunbergii Bot Zahr Praha",
+     "archivo": "File:2023 Bonsai Pinus Thunbergii Bot Zahr Praha.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2023_Bonsai_Pinus_Thunbergii_Bot_Zahr_Praha.jpg/960px-2023_Bonsai_Pinus_Thunbergii_Bot_Zahr_Praha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Pinus_Thunbergii_Bot_Zahr_Praha.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Pinus Thunbergii Bot Zahr Praha D",
+     "archivo": "File:2023 Bonsai Pinus Thunbergii Bot Zahr Praha D.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2023_Bonsai_Pinus_Thunbergii_Bot_Zahr_Praha_D.jpg/960px-2023_Bonsai_Pinus_Thunbergii_Bot_Zahr_Praha_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Pinus_Thunbergii_Bot_Zahr_Praha_D.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Pinus thunbergii's foliage and cones",
+     "archivo": "File:Pinus thunbergii's foliage and cones.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pinus_thunbergii%27s_foliage_and_cones.JPG/960px-Pinus_thunbergii%27s_foliage_and_cones.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "dalgial",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii%27s_foliage_and_cones.JPG"
+    },
+    {
+     "titulo": "Pinus thunbergii Ansan South Korea",
+     "archivo": "File:Pinus thunbergii Ansan South Korea.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinus_thunbergii_Ansan_South_Korea.jpg/960px-Pinus_thunbergii_Ansan_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1472,
+     "autor": "Seongbin Im from Seoul, Korea, Republic of",
+     "licencia": "CC BY-SA 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_Ansan_South_Korea.jpg"
+    },
+    {
+     "titulo": "Descriptive catalogue of ornamental trees, shrubs, vines, evergreens, hardy plants and fruits (1901) (20535935846)",
+     "archivo": "File:Descriptive catalogue of ornamental trees, shrubs, vines, evergreens, hardy plants and fruits (1901) (20535935846).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Descriptive_catalogue_of_ornamental_trees%2C_shrubs%2C_vines%2C_evergreens%2C_hardy_plants_and_fruits_%281901%29_%2820535935846%29.jpg/960px-Descriptive_catalogue_of_ornamental_trees%2C_shrubs%2C_vines%2C_evergreens%2C_hardy_plants_and_fruits_%281901%29_%2820535935846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 899,
+     "autor": "Internet Archive Book Images",
+     "licencia": "No restrictions",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Descriptive_catalogue_of_ornamental_trees,_shrubs,_vines,_evergreens,_hardy_plants_and_fruits_(1901)_(20535935846).jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Pinus thunbergii Izu Oshima",
+     "archivo": "File:Pinus thunbergii Izu Oshima.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Pinus_thunbergii_Izu_Oshima.jpg/960px-Pinus_thunbergii_Izu_Oshima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Nikita from Russian Federation",
+     "licencia": "CC BY 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_Izu_Oshima.jpg"
+    },
+    {
+     "titulo": "Pinus thunbergii 2zz",
+     "archivo": "File:Pinus thunbergii 2zz.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pinus_thunbergii_2zz.jpg/960px-Pinus_thunbergii_2zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Photo by David J. Stang",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_2zz.jpg"
+    },
+    {
+     "titulo": "Pinus thunbergii Banshoho 1zz",
+     "archivo": "File:Pinus thunbergii Banshoho 1zz.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pinus_thunbergii_Banshoho_1zz.jpg/960px-Pinus_thunbergii_Banshoho_1zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Photo by David J. Stang",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_Banshoho_1zz.jpg"
+    }
+   ]
+  },
+  "pino-patula": {
+   "bonsai": [
+    {
+     "titulo": "Pinus parviflora bonsai Kyoto",
+     "archivo": "File:Pinus parviflora bonsai Kyoto.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Pinus_parviflora_bonsai_Kyoto.jpg/960px-Pinus_parviflora_bonsai_Kyoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 538,
+     "autor": "Fritzmann2002",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_parviflora_bonsai_Kyoto.jpg"
+    },
+    {
+     "titulo": "Bonsai pinus radiata",
+     "archivo": "File:Bonsai pinus radiata.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bonsai_pinus_radiata.jpg/960px-Bonsai_pinus_radiata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Johnscotaus",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_pinus_radiata.jpg"
+    },
+    {
+     "titulo": "Pinus thunbergii 'Kotobuki' bonsai, Longwood Gardens 2023",
+     "archivo": "File:Pinus thunbergii 'Kotobuki' bonsai, Longwood Gardens 2023.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Pinus_thunbergii_%27Kotobuki%27_bonsai%2C_Longwood_Gardens_2023.jpg/960px-Pinus_thunbergii_%27Kotobuki%27_bonsai%2C_Longwood_Gardens_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Shuvaev",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_%27Kotobuki%27_bonsai,_Longwood_Gardens_2023.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Pinus Sylvestris Bonsai Center Heidelberg",
+     "archivo": "File:2023 Bonsai Pinus Sylvestris Bonsai Center Heidelberg.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2023_Bonsai_Pinus_Sylvestris_Bonsai_Center_Heidelberg.jpg/960px-2023_Bonsai_Pinus_Sylvestris_Bonsai_Center_Heidelberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Pinus_Sylvestris_Bonsai_Center_Heidelberg.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Pinus Uncinata Vladimir Dosek",
+     "archivo": "File:2023 Bonsai Pinus Uncinata Vladimir Dosek.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2023_Bonsai_Pinus_Uncinata_Vladimir_Dosek.jpg/960px-2023_Bonsai_Pinus_Uncinata_Vladimir_Dosek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Pinus_Uncinata_Vladimir_Dosek.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Starr-131203-2635-Pinus patula-needles-Polipoli-Maui (25201932626)",
+     "archivo": "File:Starr-131203-2635-Pinus patula-needles-Polipoli-Maui (25201932626).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Starr-131203-2635-Pinus_patula-needles-Polipoli-Maui_%2825201932626%29.jpg/960px-Starr-131203-2635-Pinus_patula-needles-Polipoli-Maui_%2825201932626%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-131203-2635-Pinus_patula-needles-Polipoli-Maui_(25201932626).jpg"
+    },
+    {
+     "titulo": "Starr-100412-4495-Pinus patula-needles-Waikamoi-Maui (25002353606)",
+     "archivo": "File:Starr-100412-4495-Pinus patula-needles-Waikamoi-Maui (25002353606).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Starr-100412-4495-Pinus_patula-needles-Waikamoi-Maui_%2825002353606%29.jpg/960px-Starr-100412-4495-Pinus_patula-needles-Waikamoi-Maui_%2825002353606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-100412-4495-Pinus_patula-needles-Waikamoi-Maui_(25002353606).jpg"
+    },
+    {
+     "titulo": "Starr-110920-9114-Pinus patula-needles-Waiale Gulch-Maui (24995356662)",
+     "archivo": "File:Starr-110920-9114-Pinus patula-needles-Waiale Gulch-Maui (24995356662).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Starr-110920-9114-Pinus_patula-needles-Waiale_Gulch-Maui_%2824995356662%29.jpg/960px-Starr-110920-9114-Pinus_patula-needles-Waiale_Gulch-Maui_%2824995356662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-110920-9114-Pinus_patula-needles-Waiale_Gulch-Maui_(24995356662).jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Pinus patula, Esperanza, Puebla, México 1",
+     "archivo": "File:Pinus patula, Esperanza, Puebla, México 1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pinus_patula%2C_Esperanza%2C_Puebla%2C_M%C3%A9xico_1.jpg/960px-Pinus_patula%2C_Esperanza%2C_Puebla%2C_M%C3%A9xico_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "tereso30",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_patula,_Esperanza,_Puebla,_M%C3%A9xico_1.jpg"
+    },
+    {
+     "titulo": "Pinus patula, Esperanza, Puebla, México 2",
+     "archivo": "File:Pinus patula, Esperanza, Puebla, México 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Pinus_patula%2C_Esperanza%2C_Puebla%2C_M%C3%A9xico_2.jpg/960px-Pinus_patula%2C_Esperanza%2C_Puebla%2C_M%C3%A9xico_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "tereso30",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_patula,_Esperanza,_Puebla,_M%C3%A9xico_2.jpg"
+    },
+    {
+     "titulo": "Pinus patula in Golden Valley Tree Park, May 2022",
+     "archivo": "File:Pinus patula in Golden Valley Tree Park, May 2022.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pinus_patula_in_Golden_Valley_Tree_Park%2C_May_2022.jpg/960px-Pinus_patula_in_Golden_Valley_Tree_Park%2C_May_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Calistemon",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pinus_patula_in_Golden_Valley_Tree_Park,_May_2022.jpg"
+    }
+   ]
+  },
+  "azalea": {
+   "bonsai": [
+    {
+     "titulo": "Rhododendron indicum Bonsai",
+     "archivo": "File:Rhododendron indicum Bonsai.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Rhododendron_indicum_Bonsai.jpg/960px-Rhododendron_indicum_Bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "KENPEI",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Rhododendron_indicum_Bonsai.jpg"
+    },
+    {
+     "titulo": "Este es un bonsái de azalea Satsuki (Rhododendron indicum), conocido por sus vibrantes flores rosas y su capacidad para prosperar al aire libre",
+     "archivo": "File:Este es un bonsái de azalea Satsuki (Rhododendron indicum), conocido por sus vibrantes flores rosas y su capacidad para prosperar al aire libre.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Este_es_un_bons%C3%A1i_de_azalea_Satsuki_%28Rhododendron_indicum%29%2C_conocido_por_sus_vibrantes_flores_rosas_y_su_capacidad_para_prosperar_al_aire_libre.jpg/960px-Este_es_un_bons%C3%A1i_de_azalea_Satsuki_%28Rhododendron_indicum%29%2C_conocido_por_sus_vibrantes_flores_rosas_y_su_capacidad_para_prosperar_al_aire_libre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 815,
+     "autor": "Lobo730",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Este_es_un_bons%C3%A1i_de_azalea_Satsuki_(Rhododendron_indicum),_conocido_por_sus_vibrantes_flores_rosas_y_su_capacidad_para_prosperar_al_aire_libre.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Rhododendron indicum leaf",
+     "archivo": "File:Rhododendron indicum leaf.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rhododendron_indicum_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Willow Coville",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Rhododendron_indicum_leaf.jpg"
+    },
+    {
+     "titulo": "New, rare and beautiful plants (1900) (20371994030)",
+     "archivo": "File:New, rare and beautiful plants (1900) (20371994030).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/New%2C_rare_and_beautiful_plants_%281900%29_%2820371994030%29.jpg/960px-New%2C_rare_and_beautiful_plants_%281900%29_%2820371994030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 644,
+     "autor": "Internet Archive Book Images",
+     "licencia": "No restrictions",
+     "pagina": "https://commons.wikimedia.org/wiki/File:New,_rare_and_beautiful_plants_(1900)_(20371994030).jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "(MHNT) Rhododendron indicum - Immature inflorescence",
+     "archivo": "File:(MHNT) Rhododendron indicum - Immature inflorescence.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/%28MHNT%29_Rhododendron_indicum_-_Immature_inflorescence.jpg/960px-%28MHNT%29_Rhododendron_indicum_-_Immature_inflorescence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 630,
+     "autor": "Didier Descouens",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(MHNT)_Rhododendron_indicum_-_Immature_inflorescence.jpg"
+    },
+    {
+     "titulo": "Rhododendron indicum1",
+     "archivo": "File:Rhododendron indicum1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Rhododendron_indicum1.jpg/960px-Rhododendron_indicum1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "KENPEI",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Rhododendron_indicum1.jpg"
+    },
+    {
+     "titulo": "Rhododendron indicum cv. Kojou-no-tsuki",
+     "archivo": "File:Rhododendron indicum cv. Kojou-no-tsuki.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Rhododendron_indicum_cv._Kojou-no-tsuki.jpg/960px-Rhododendron_indicum_cv._Kojou-no-tsuki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 479,
+     "autor": "小石川人晃",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Rhododendron_indicum_cv._Kojou-no-tsuki.jpg"
+    }
+   ]
+  },
+  "olivo": {
+   "bonsai": [
+    {
+     "titulo": "Olea europaea 'Manzanillo' bonsai, Longwood Gardens 2023",
+     "archivo": "File:Olea europaea 'Manzanillo' bonsai, Longwood Gardens 2023.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Olea_europaea_%27Manzanillo%27_bonsai%2C_Longwood_Gardens_2023.jpg/960px-Olea_europaea_%27Manzanillo%27_bonsai%2C_Longwood_Gardens_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Shuvaev",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Olea_europaea_%27Manzanillo%27_bonsai,_Longwood_Gardens_2023.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Olea Europaea Josef Valuch",
+     "archivo": "File:2023 Bonsai Olea Europaea Josef Valuch.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2023_Bonsai_Olea_Europaea_Josef_Valuch.jpg/960px-2023_Bonsai_Olea_Europaea_Josef_Valuch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Olea_Europaea_Josef_Valuch.jpg"
+    },
+    {
+     "titulo": "2023 Bonsai Olea Europaea Josef Valuch D",
+     "archivo": "File:2023 Bonsai Olea Europaea Josef Valuch D.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2023_Bonsai_Olea_Europaea_Josef_Valuch_D.jpg/960px-2023_Bonsai_Olea_Europaea_Josef_Valuch_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mojmir Churavy",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:2023_Bonsai_Olea_Europaea_Josef_Valuch_D.jpg"
+    },
+    {
+     "titulo": "Japanese garden Olea Europaea Bonsai in Planetanya",
+     "archivo": "File:Japanese garden Olea Europaea Bonsai in Planetanya.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Japanese_garden_Olea_Europaea_Bonsai_in_Planetanya.jpg/960px-Japanese_garden_Olea_Europaea_Bonsai_in_Planetanya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1558,
+     "autor": "McKaby",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Japanese_garden_Olea_Europaea_Bonsai_in_Planetanya.jpg"
+    },
+    {
+     "titulo": "Starr-090421-6271-Olea europaea subsp cuspidata-bonsai-Pukalani-Maui (24656889010)",
+     "archivo": "File:Starr-090421-6271-Olea europaea subsp cuspidata-bonsai-Pukalani-Maui (24656889010).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Starr-090421-6271-Olea_europaea_subsp_cuspidata-bonsai-Pukalani-Maui_%2824656889010%29.jpg/960px-Starr-090421-6271-Olea_europaea_subsp_cuspidata-bonsai-Pukalani-Maui_%2824656889010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Forest and Kim Starr",
+     "licencia": "CC BY 3.0 us",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Starr-090421-6271-Olea_europaea_subsp_cuspidata-bonsai-Pukalani-Maui_(24656889010).jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "(MHNT) Olea europaea - Inflorescence and leaves",
+     "archivo": "File:(MHNT) Olea europaea - Inflorescence and leaves.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%28MHNT%29_Olea_europaea_-_Inflorescence_and_leaves.jpg/960px-%28MHNT%29_Olea_europaea_-_Inflorescence_and_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 833,
+     "autor": "Didier Descouens",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(MHNT)_Olea_europaea_-_Inflorescence_and_leaves.jpg"
+    },
+    {
+     "titulo": "Olea europaea leaves 1",
+     "archivo": "File:Olea europaea leaves 1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Olea_europaea_leaves_1.jpg/960px-Olea_europaea_leaves_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Prahlad balaji",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Olea_europaea_leaves_1.jpg"
+    },
+    {
+     "titulo": "Olea europaea leaf epidermis and stomata 100x",
+     "archivo": "File:Olea europaea leaf epidermis and stomata 100x.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Olea_europaea_leaf_epidermis_and_stomata_100x.jpg/960px-Olea_europaea_leaf_epidermis_and_stomata_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "ChrisInMilton",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Olea_europaea_leaf_epidermis_and_stomata_100x.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Lun olive tree 1600 years",
+     "archivo": "File:Lun olive tree 1600 years.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Lun_olive_tree_1600_years.jpg/960px-Lun_olive_tree_1600_years.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 625,
+     "autor": "Palauenc05",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Lun_olive_tree_1600_years.jpg"
+    },
+    {
+     "titulo": "Lun Olive-Gardens (2)",
+     "archivo": "File:Lun Olive-Gardens (2).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Lun_Olive-Gardens_%282%29.jpg/960px-Lun_Olive-Gardens_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Palauenc05",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Lun_Olive-Gardens_(2).jpg"
+    },
+    {
+     "titulo": "Olea europaea, Murviel-lès-Béziers",
+     "archivo": "File:Olea europaea, Murviel-lès-Béziers.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Olea_europaea%2C_Murviel-l%C3%A8s-B%C3%A9ziers.jpg/960px-Olea_europaea%2C_Murviel-l%C3%A8s-B%C3%A9ziers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 450,
+     "autor": "Christian Ferrer",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Olea_europaea,_Murviel-l%C3%A8s-B%C3%A9ziers.jpg"
+    }
+   ]
+  },
+  "jade": {
+   "bonsai": [
+    {
+     "titulo": "Crassula ovata indoor bonsai",
+     "archivo": "File:Crassula ovata indoor bonsai.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Crassula_ovata_indoor_bonsai.jpg/960px-Crassula_ovata_indoor_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Pezoporus wallicus",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Crassula_ovata_indoor_bonsai.jpg"
+    },
+    {
+     "titulo": "Crassula bonsai",
+     "archivo": "File:Crassula bonsai.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Crassula_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 844,
+     "autor": "Emmanuelm (talk · contribs)",
+     "licencia": "CC BY 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Crassula_bonsai.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Crassula ovata 2012",
+     "archivo": "File:Crassula ovata 2012.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Crassula_ovata_2012.jpg/960px-Crassula_ovata_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1076,
+     "autor": "JLPC",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Crassula_ovata_2012.jpg"
+    },
+    {
+     "titulo": "Crassula ovata white spots on leaves",
+     "archivo": "File:Crassula ovata white spots on leaves.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Crassula_ovata_white_spots_on_leaves.jpg/960px-Crassula_ovata_white_spots_on_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Eetu Forssell",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Crassula_ovata_white_spots_on_leaves.jpg"
+    },
+    {
+     "titulo": "20210620 Hortus botanicus Leiden - Crassula ovata v2",
+     "archivo": "File:20210620 Hortus botanicus Leiden - Crassula ovata v2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/20210620_Hortus_botanicus_Leiden_-_Crassula_ovata_v2.jpg/960px-20210620_Hortus_botanicus_Leiden_-_Crassula_ovata_v2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Rudolphous",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:20210620_Hortus_botanicus_Leiden_-_Crassula_ovata_v2.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Among the branches of a potted jade plant",
+     "archivo": "File:Among the branches of a potted jade plant.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Among_the_branches_of_a_potted_jade_plant.jpg/960px-Among_the_branches_of_a_potted_jade_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 522,
+     "autor": "W.carter",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Among_the_branches_of_a_potted_jade_plant.jpg"
+    },
+    {
+     "titulo": "Crassula ovata RTBG",
+     "archivo": "File:Crassula ovata RTBG.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Crassula_ovata_RTBG.jpg/960px-Crassula_ovata_RTBG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "JJ Harrison (https://www.jjharrison.com.au/)",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Crassula_ovata_RTBG.jpg"
+    },
+    {
+     "titulo": "Crassula ovata fleurs FR 2013",
+     "archivo": "File:Crassula ovata fleurs FR 2013.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Crassula_ovata_fleurs_FR_2013.jpg/960px-Crassula_ovata_fleurs_FR_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 509,
+     "autor": "JLPC",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Crassula_ovata_fleurs_FR_2013.jpg"
+    }
+   ]
+  },
+  "granado": {
+   "bonsai": [
+    {
+     "titulo": "Punica granatum bonsai 4",
+     "archivo": "File:Punica granatum bonsai 4.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Punica_granatum_bonsai_4.jpg/960px-Punica_granatum_bonsai_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Punica_granatum_bonsai_4.jpg"
+    },
+    {
+     "titulo": "Punica granatum bonsai 2",
+     "archivo": "File:Punica granatum bonsai 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Punica_granatum_bonsai_2.jpg/960px-Punica_granatum_bonsai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Punica_granatum_bonsai_2.jpg"
+    },
+    {
+     "titulo": "Punica granatum bonsai 3",
+     "archivo": "File:Punica granatum bonsai 3.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Punica_granatum_bonsai_3.jpg/960px-Punica_granatum_bonsai_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Punica_granatum_bonsai_3.jpg"
+    },
+    {
+     "titulo": "Punica granatum bonsai 1",
+     "archivo": "File:Punica granatum bonsai 1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Punica_granatum_bonsai_1.jpg/960px-Punica_granatum_bonsai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Punica_granatum_bonsai_1.jpg"
+    },
+    {
+     "titulo": "Punica granatum bonsai 17 01 2012",
+     "archivo": "File:Punica granatum bonsai 17 01 2012.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Punica_granatum_bonsai_17_01_2012.jpg/960px-Punica_granatum_bonsai_17_01_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 782,
+     "autor": "Tremaster",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Punica_granatum_bonsai_17_01_2012.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Punica granatum (85964)",
+     "archivo": "File:Punica granatum (85964).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Punica_granatum_%2885964%29.jpg/960px-Punica_granatum_%2885964%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 405,
+     "autor": "Nativeplants garden",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Punica_granatum_(85964).jpg"
+    },
+    {
+     "titulo": "Punica granatum 21zz",
+     "archivo": "File:Punica granatum 21zz.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Punica_granatum_21zz.jpg/960px-Punica_granatum_21zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 479,
+     "autor": "Photo by David J. Stang",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Punica_granatum_21zz.jpg"
+    },
+    {
+     "titulo": "Punica April 2011-1",
+     "archivo": "File:Punica April 2011-1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Punica_April_2011-1.jpg/960px-Punica_April_2011-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 543,
+     "autor": "Alvesgaspar",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Punica_April_2011-1.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Pomegranate flowers (Punica granatum), Ponte de Sor, Portugal (approx. GPS location) julesvernex2",
+     "archivo": "File:Pomegranate flowers (Punica granatum), Ponte de Sor, Portugal (approx. GPS location) julesvernex2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Pomegranate_flowers_%28Punica_granatum%29%2C_Ponte_de_Sor%2C_Portugal_%28approx._GPS_location%29_julesvernex2.jpg/960px-Pomegranate_flowers_%28Punica_granatum%29%2C_Ponte_de_Sor%2C_Portugal_%28approx._GPS_location%29_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 549,
+     "autor": "Jules Verne Times Two",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pomegranate_flowers_(Punica_granatum),_Ponte_de_Sor,_Portugal_(approx._GPS_location)_julesvernex2.jpg"
+    },
+    {
+     "titulo": "Pomegranate arils",
+     "archivo": "File:Pomegranate arils.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Pomegranate_arils.jpg/960px-Pomegranate_arils.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Ivar Leidus",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pomegranate_arils.jpg"
+    },
+    {
+     "titulo": "Pomegranate fruit - whole and piece with arils",
+     "archivo": "File:Pomegranate fruit - whole and piece with arils.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/960px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Ivar Leidus",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pomegranate_fruit_-_whole_and_piece_with_arils.jpg"
+    }
+   ]
+  },
+  "pyracantha": {
+   "bonsai": [
+    {
+     "titulo": "Chicago Botanic Gdn, Regenstein Center, Bonsai Collection 180721 302 Pyracantha angustifolia Narrow-leaf Firethorn, root-over-rock style, Hosta 'White Christmas' perhaps",
+     "archivo": "File:Chicago Botanic Gdn, Regenstein Center, Bonsai Collection 180721 302 Pyracantha angustifolia Narrow-leaf Firethorn, root-over-rock style, Hosta 'White Christmas' perhaps.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Chicago_Botanic_Gdn%2C_Regenstein_Center%2C_Bonsai_Collection_180721_302_Pyracantha_angustifolia_Narrow-leaf_Firethorn%2C_root-over-rock_style%2C_Hosta_%27White_Christmas%27_perhaps.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 405,
+     "autor": "cultivar413",
+     "licencia": "CC BY 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Chicago_Botanic_Gdn,_Regenstein_Center,_Bonsai_Collection_180721_302_Pyracantha_angustifolia_Narrow-leaf_Firethorn,_root-over-rock_style,_Hosta_%27White_Christmas%27_perhaps.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "(ms) Pyracantha coccinea 2",
+     "archivo": "File:(ms) Pyracantha coccinea 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%28ms%29_Pyracantha_coccinea_2.jpg/960px-%28ms%29_Pyracantha_coccinea_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 639,
+     "autor": "Hladac",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(ms)_Pyracantha_coccinea_2.jpg"
+    },
+    {
+     "titulo": "(ms) Pyracantha coccinea 3",
+     "archivo": "File:(ms) Pyracantha coccinea 3.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%28ms%29_Pyracantha_coccinea_3.jpg/960px-%28ms%29_Pyracantha_coccinea_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Hladac",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(ms)_Pyracantha_coccinea_3.jpg"
+    },
+    {
+     "titulo": "Pyracantha-coccinea-berries",
+     "archivo": "File:Pyracantha-coccinea-berries.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pyracantha-coccinea-berries.JPG/960px-Pyracantha-coccinea-berries.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "No machine-readable author provided. Sten assumed (based on copyright claims).",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pyracantha-coccinea-berries.JPG"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Feuerdorn (Pyracantha coccinea)",
+     "archivo": "File:Feuerdorn (Pyracantha coccinea).JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Feuerdorn_%28Pyracantha_coccinea%29.JPG/960px-Feuerdorn_%28Pyracantha_coccinea%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "noebse",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Feuerdorn_(Pyracantha_coccinea).JPG"
+    },
+    {
+     "titulo": "Pyracantha coccinea ognik szkarłatny Franciszkańska Katowice spring",
+     "archivo": "File:Pyracantha coccinea ognik szkarłatny Franciszkańska Katowice spring.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Pyracantha_coccinea_ognik_szkar%C5%82atny_Franciszka%C5%84ska_Katowice_spring.jpg/960px-Pyracantha_coccinea_ognik_szkar%C5%82atny_Franciszka%C5%84ska_Katowice_spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Abraham",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pyracantha_coccinea_ognik_szkar%C5%82atny_Franciszka%C5%84ska_Katowice_spring.jpg"
+    },
+    {
+     "titulo": "Pyracantha coccinea ognik szkarłatny Franciszkańska Katowice PL",
+     "archivo": "File:Pyracantha coccinea ognik szkarłatny Franciszkańska Katowice PL.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Pyracantha_coccinea_ognik_szkar%C5%82atny_Franciszka%C5%84ska_Katowice_PL.jpg/960px-Pyracantha_coccinea_ognik_szkar%C5%82atny_Franciszka%C5%84ska_Katowice_PL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Abraham",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Pyracantha_coccinea_ognik_szkar%C5%82atny_Franciszka%C5%84ska_Katowice_PL.jpg"
+    }
+   ]
+  },
+  "cotoneaster": {
+   "bonsai": [
+    {
+     "titulo": "15. Madárbirs - bonsai, Baumann Attila",
+     "archivo": "File:15. Madárbirs - bonsai, Baumann Attila.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/15._Mad%C3%A1rbirs_-_bonsai%2C_Baumann_Attila.JPG/960px-15._Mad%C3%A1rbirs_-_bonsai%2C_Baumann_Attila.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Derzsi Elekes Andor",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:15._Mad%C3%A1rbirs_-_bonsai,_Baumann_Attila.JPG"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "(ms) Cotoneaster horizontalis 7",
+     "archivo": "File:(ms) Cotoneaster horizontalis 7.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%28ms%29_Cotoneaster_horizontalis_7.jpg/960px-%28ms%29_Cotoneaster_horizontalis_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 660,
+     "autor": "Hladac",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(ms)_Cotoneaster_horizontalis_7.jpg"
+    },
+    {
+     "titulo": "(ms) Cotoneaster horizontalis 1",
+     "archivo": "File:(ms) Cotoneaster horizontalis 1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%28ms%29_Cotoneaster_horizontalis_1.jpg/960px-%28ms%29_Cotoneaster_horizontalis_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Hladac",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(ms)_Cotoneaster_horizontalis_1.jpg"
+    },
+    {
+     "titulo": "(ms) Cotoneaster horizontalis 6",
+     "archivo": "File:(ms) Cotoneaster horizontalis 6.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/%28ms%29_Cotoneaster_horizontalis_6.jpg/960px-%28ms%29_Cotoneaster_horizontalis_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 720,
+     "autor": "Hladac",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(ms)_Cotoneaster_horizontalis_6.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Cotoneaster horizontalis",
+     "archivo": "File:Cotoneaster horizontalis.JPG",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cotoneaster_horizontalis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 845,
+     "autor": "Desconocido",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Cotoneaster_horizontalis.JPG"
+    },
+    {
+     "titulo": "20251031 Cotoneaster horizontalis Irga pozioma Panewniki 03",
+     "archivo": "File:20251031 Cotoneaster horizontalis Irga pozioma Panewniki 03.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/20251031_Cotoneaster_horizontalis_Irga_pozioma_Panewniki_03.jpg/960px-20251031_Cotoneaster_horizontalis_Irga_pozioma_Panewniki_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Abraham",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:20251031_Cotoneaster_horizontalis_Irga_pozioma_Panewniki_03.jpg"
+    },
+    {
+     "titulo": "20251031 Cotoneaster horizontalis Irga pozioma Panewniki 01",
+     "archivo": "File:20251031 Cotoneaster horizontalis Irga pozioma Panewniki 01.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/20251031_Cotoneaster_horizontalis_Irga_pozioma_Panewniki_01.jpg/960px-20251031_Cotoneaster_horizontalis_Irga_pozioma_Panewniki_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Abraham",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:20251031_Cotoneaster_horizontalis_Irga_pozioma_Panewniki_01.jpg"
+    }
+   ]
+  },
+  "ginkgo": {
+   "bonsai": [
+    {
+     "titulo": "Ginkgo biloba bonsai - Longwood Gardens - DSC01260",
+     "archivo": "File:Ginkgo biloba bonsai - Longwood Gardens - DSC01260.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ginkgo_biloba_bonsai_-_Longwood_Gardens_-_DSC01260.JPG/960px-Ginkgo_biloba_bonsai_-_Longwood_Gardens_-_DSC01260.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1080,
+     "autor": "Daderot",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_bonsai_-_Longwood_Gardens_-_DSC01260.JPG"
+    },
+    {
+     "titulo": "Ginkgo bonsai D170316 (seedling)",
+     "archivo": "File:Ginkgo bonsai D170316 (seedling).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ginkgo_bonsai_D170316_%28seedling%29.jpg/960px-Ginkgo_bonsai_D170316_%28seedling%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Tangopaso",
+     "licencia": "Public domain",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ginkgo_bonsai_D170316_(seedling).jpg"
+    },
+    {
+     "titulo": "Ginkgo bonsai D170406 (seedling)",
+     "archivo": "File:Ginkgo bonsai D170406 (seedling).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ginkgo_bonsai_D170406_%28seedling%29.jpg/960px-Ginkgo_bonsai_D170406_%28seedling%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Tangopaso",
+     "licencia": "Public domain",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ginkgo_bonsai_D170406_(seedling).jpg"
+    },
+    {
+     "titulo": "Ginkgo bonsai D170311 (bud and spider)",
+     "archivo": "File:Ginkgo bonsai D170311 (bud and spider).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ginkgo_bonsai_D170311_%28bud_and_spider%29.jpg/960px-Ginkgo_bonsai_D170311_%28bud_and_spider%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Tangopaso",
+     "licencia": "Public domain",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ginkgo_bonsai_D170311_(bud_and_spider).jpg"
+    },
+    {
+     "titulo": "Ginkgo biloba penjing JB",
+     "archivo": "File:Ginkgo biloba penjing JB.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Ginkgo_biloba_penjing_JB.jpg/960px-Ginkgo_biloba_penjing_JB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 622,
+     "autor": "Cephas",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_penjing_JB.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "GinkgoLeaves",
+     "archivo": "File:GinkgoLeaves.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/GinkgoLeaves.jpg/960px-GinkgoLeaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 917,
+     "autor": "Joe Schneid, Louisville, Kentucky",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:GinkgoLeaves.jpg"
+    },
+    {
+     "titulo": "Ginkgo biloba leaves in radial arrangement - 2019-10-25 focus stack",
+     "archivo": "File:Ginkgo biloba leaves in radial arrangement - 2019-10-25 focus stack.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ginkgo_biloba_leaves_in_radial_arrangement_-_2019-10-25_focus_stack.jpg/960px-Ginkgo_biloba_leaves_in_radial_arrangement_-_2019-10-25_focus_stack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Franz van Duns",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_leaves_in_radial_arrangement_-_2019-10-25_focus_stack.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Ginkgo biloba MHNT.BOT.2010.13.1",
+     "archivo": "File:Ginkgo biloba MHNT.BOT.2010.13.1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ginkgo_biloba_MHNT.BOT.2010.13.1.jpg/960px-Ginkgo_biloba_MHNT.BOT.2010.13.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 622,
+     "autor": "Jean-Pierre Chéreau &amp; Roger Culos",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_MHNT.BOT.2010.13.1.jpg"
+    },
+    {
+     "titulo": "Hortus Haren 18-05-2019. (actm.) 03",
+     "archivo": "File:Hortus Haren 18-05-2019. (actm.) 03.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hortus_Haren_18-05-2019._%28actm.%29_03.jpg/960px-Hortus_Haren_18-05-2019._%28actm.%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1080,
+     "autor": "Agnes Monkelbaan",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Hortus_Haren_18-05-2019._(actm.)_03.jpg"
+    }
+   ]
+  },
+  "podocarpus": {
+   "bonsai": [
+    {
+     "titulo": "Podocarpus macrophyllus bonsai",
+     "archivo": "File:Podocarpus macrophyllus bonsai.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Podocarpus_macrophyllus_bonsai.jpg/960px-Podocarpus_macrophyllus_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 982,
+     "autor": "Urban Hafner",
+     "licencia": "CC BY-SA 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Podocarpus_macrophyllus_bonsai.jpg"
+    },
+    {
+     "titulo": "Bonsai de Podocarpus",
+     "archivo": "File:Bonsai de Podocarpus.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bonsai_de_Podocarpus.jpg/960px-Bonsai_de_Podocarpus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 990,
+     "autor": "Íris Galaxy extended",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_de_Podocarpus.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "(Podocarpus macrophyllus in Japan) - DPLA - efdfb90a9c086a024c247566baf2d97f",
+     "archivo": "File:(Podocarpus macrophyllus in Japan) - DPLA - efdfb90a9c086a024c247566baf2d97f.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/%28Podocarpus_macrophyllus_in_Japan%29_-_DPLA_-_efdfb90a9c086a024c247566baf2d97f.jpg/960px-%28Podocarpus_macrophyllus_in_Japan%29_-_DPLA_-_efdfb90a9c086a024c247566baf2d97f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1072,
+     "autor": "Carlquist, Sherwin John, 1930-2021",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:(Podocarpus_macrophyllus_in_Japan)_-_DPLA_-_efdfb90a9c086a024c247566baf2d97f.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Podocarpus macrophyllus",
+     "archivo": "File:Podocarpus macrophyllus.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Podocarpus_macrophyllus.jpg/960px-Podocarpus_macrophyllus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1080,
+     "autor": "Greg Hume",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Podocarpus_macrophyllus.jpg"
+    },
+    {
+     "titulo": "Podocarpus macrophyllus var. maki in rural Hunan Province, China",
+     "archivo": "File:Podocarpus macrophyllus var. maki in rural Hunan Province, China.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Podocarpus_macrophyllus_var._maki_in_rural_Hunan_Province%2C_China.jpg/960px-Podocarpus_macrophyllus_var._maki_in_rural_Hunan_Province%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "FlyingBatt",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Podocarpus_macrophyllus_var._maki_in_rural_Hunan_Province,_China.jpg"
+    },
+    {
+     "titulo": "Podocarpus macrophyllus (190208-1804)",
+     "archivo": "File:Podocarpus macrophyllus (190208-1804).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Podocarpus_macrophyllus_%28190208-1804%29.jpg/960px-Podocarpus_macrophyllus_%28190208-1804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Wee Hong",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Podocarpus_macrophyllus_(190208-1804).jpg"
+    }
+   ]
+  },
+  "sageretia": {
+   "bonsai": [
+    {
+     "titulo": "Sageretia thea bonsai (1)",
+     "archivo": "File:Sageretia thea bonsai (1).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Sageretia_thea_bonsai_%281%29.jpg/960px-Sageretia_thea_bonsai_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 865,
+     "autor": "Krzysztof Golik",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_thea_bonsai_(1).jpg"
+    },
+    {
+     "titulo": "Sageretia bonsai plants (5349551200)",
+     "archivo": "File:Sageretia bonsai plants (5349551200).jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Sageretia_bonsai_plants_%285349551200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Leonora Enking from West Sussex, England",
+     "licencia": "CC BY-SA 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_bonsai_plants_(5349551200).jpg"
+    },
+    {
+     "titulo": "Sageretia thea bonsai (2)",
+     "archivo": "File:Sageretia thea bonsai (2).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sageretia_thea_bonsai_%282%29.jpg/960px-Sageretia_thea_bonsai_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 562,
+     "autor": "Krzysztof Golik",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_thea_bonsai_(2).jpg"
+    },
+    {
+     "titulo": "Sageretia thea bonsai (3)",
+     "archivo": "File:Sageretia thea bonsai (3).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sageretia_thea_bonsai_%283%29.jpg/960px-Sageretia_thea_bonsai_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Krzysztof Golik",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_thea_bonsai_(3).jpg"
+    },
+    {
+     "titulo": "Sageretia thea bonsai (5)",
+     "archivo": "File:Sageretia thea bonsai (5).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Sageretia_thea_bonsai_%285%29.jpg/960px-Sageretia_thea_bonsai_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 910,
+     "autor": "Krzysztof Golik",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_thea_bonsai_(5).jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Sageretia theezans",
+     "archivo": "File:Sageretia theezans.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Sageretia_theezans.jpg/960px-Sageretia_theezans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "No machine-readable author provided. Abrahami assumed (based on copyright claims",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_theezans.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Sageretia thea 1zz",
+     "archivo": "File:Sageretia thea 1zz.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Sageretia_thea_1zz.jpg/960px-Sageretia_thea_1zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1083,
+     "autor": "Photo by David J. Stang",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_thea_1zz.jpg"
+    },
+    {
+     "titulo": "Sageretia thea kz01",
+     "archivo": "File:Sageretia thea kz01.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sageretia_thea_kz01.jpg/960px-Sageretia_thea_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Krzysztof Ziarnek, Kenraiz",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_thea_kz01.jpg"
+    },
+    {
+     "titulo": "Sageretia thea kz02",
+     "archivo": "File:Sageretia thea kz02.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sageretia_thea_kz02.jpg/960px-Sageretia_thea_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Krzysztof Ziarnek, Kenraiz",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Sageretia_thea_kz02.jpg"
+    }
+   ]
+  },
+  "zelkova": {
+   "bonsai": [
+    {
+     "titulo": "Zelkova serrata bonsai 3",
+     "archivo": "File:Zelkova serrata bonsai 3.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Zelkova_serrata_bonsai_3.jpg/960px-Zelkova_serrata_bonsai_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_bonsai_3.jpg"
+    },
+    {
+     "titulo": "Zelkova serrata bonsai 1",
+     "archivo": "File:Zelkova serrata bonsai 1.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Zelkova_serrata_bonsai_1.jpg/960px-Zelkova_serrata_bonsai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_bonsai_1.jpg"
+    },
+    {
+     "titulo": "Zelkova serrata bonsai 2",
+     "archivo": "File:Zelkova serrata bonsai 2.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Zelkova_serrata_bonsai_2.jpg/960px-Zelkova_serrata_bonsai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 960,
+     "autor": "Mark Pellegrini",
+     "licencia": "CC BY-SA 2.5",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_bonsai_2.jpg"
+    },
+    {
+     "titulo": "Zelkova serrata bonsai - Longwood Gardens - DSC01257",
+     "archivo": "File:Zelkova serrata bonsai - Longwood Gardens - DSC01257.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Zelkova_serrata_bonsai_-_Longwood_Gardens_-_DSC01257.JPG/960px-Zelkova_serrata_bonsai_-_Longwood_Gardens_-_DSC01257.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1080,
+     "autor": "Daderot",
+     "licencia": "CC0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_bonsai_-_Longwood_Gardens_-_DSC01257.JPG"
+    },
+    {
+     "titulo": "Japanese Zelkova - National Bonsai & Penjing Museum - Washington, D.C. - Stierch",
+     "archivo": "File:Japanese Zelkova - National Bonsai & Penjing Museum - Washington, D.C. - Stierch.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Japanese_Zelkova_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Stierch.jpg/960px-Japanese_Zelkova_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 713,
+     "autor": "Sarah Stierch",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Japanese_Zelkova_-_National_Bonsai_%26_Penjing_Museum_-_Washington,_D.C._-_Stierch.jpg"
+    }
+   ],
+   "hojas": [
+    {
+     "titulo": "Zelkova serrata leaf with holes 2018",
+     "archivo": "File:Zelkova serrata leaf with holes 2018.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Zelkova_serrata_leaf_with_holes_2018.jpg/960px-Zelkova_serrata_leaf_with_holes_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1280,
+     "autor": "Jidanni",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_leaf_with_holes_2018.jpg"
+    },
+    {
+     "titulo": "Zelkova-serrata-autumn-foliage",
+     "archivo": "File:Zelkova-serrata-autumn-foliage.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Zelkova-serrata-autumn-foliage.jpg/960px-Zelkova-serrata-autumn-foliage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 481,
+     "autor": "Sten Porse",
+     "licencia": "CC BY-SA 3.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova-serrata-autumn-foliage.jpg"
+    },
+    {
+     "titulo": "Keyaki (Zelkova serrata); branch with leaves. Coloured pen d Wellcome V0043608",
+     "archivo": "File:Keyaki (Zelkova serrata); branch with leaves. Coloured pen d Wellcome V0043608.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Keyaki_%28Zelkova_serrata%29%3B_branch_with_leaves._Coloured_pen_d_Wellcome_V0043608.jpg/960px-Keyaki_%28Zelkova_serrata%29%3B_branch_with_leaves._Coloured_pen_d_Wellcome_V0043608.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 1096,
+     "autor": "Desconocido",
+     "licencia": "CC BY 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Keyaki_(Zelkova_serrata);_branch_with_leaves._Coloured_pen_d_Wellcome_V0043608.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "Zelkova serrata 8zz",
+     "archivo": "File:Zelkova serrata 8zz.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Zelkova_serrata_8zz.jpg/960px-Zelkova_serrata_8zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Photo by David J. Stang",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_8zz.jpg"
+    },
+    {
+     "titulo": "Zelkova serrata 6zz",
+     "archivo": "File:Zelkova serrata 6zz.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Zelkova_serrata_6zz.jpg/960px-Zelkova_serrata_6zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Photo by David J. Stang",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_6zz.jpg"
+    },
+    {
+     "titulo": "Zelkova serrata 3zz",
+     "archivo": "File:Zelkova serrata 3zz.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Zelkova_serrata_3zz.jpg/960px-Zelkova_serrata_3zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Photo by David J. Stang",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_3zz.jpg"
+    }
+   ]
+  },
+  "guayacan": {
+   "bonsai": [],
+   "hojas": [
+    {
+     "titulo": "Handroanthus serratifolius leaves",
+     "archivo": "File:Handroanthus serratifolius leaves.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Handroanthus_serratifolius_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 581,
+     "autor": "João Medeiros",
+     "licencia": "CC BY 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Handroanthus_serratifolius_leaves.jpg"
+    },
+    {
+     "titulo": "Handroanthus chrysotrichus (Mart. ex DC.) Mattos - Flickr - Alex Popovkin, Bahia, Brazil (4)",
+     "archivo": "File:Handroanthus chrysotrichus (Mart. ex DC.) Mattos - Flickr - Alex Popovkin, Bahia, Brazil (4).jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Handroanthus_chrysotrichus_%28Mart._ex_DC.%29_Mattos_-_Flickr_-_Alex_Popovkin%2C_Bahia%2C_Brazil_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "ancho": 720,
+     "alto": 404,
+     "autor": "Alex Popovkin, Bahia, Brazil from Brazil",
+     "licencia": "CC BY 2.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Handroanthus_chrysotrichus_(Mart._ex_DC.)_Mattos_-_Flickr_-_Alex_Popovkin,_Bahia,_Brazil_(4).jpg"
+    },
+    {
+     "titulo": "Handroanthus impetiginosus-2-yercaud-salem-India",
+     "archivo": "File:Handroanthus impetiginosus-2-yercaud-salem-India.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Handroanthus_impetiginosus-2-yercaud-salem-India.jpg/960px-Handroanthus_impetiginosus-2-yercaud-salem-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Yercaud-elango",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:Handroanthus_impetiginosus-2-yercaud-salem-India.jpg"
+    }
+   ],
+   "natural": [
+    {
+     "titulo": "055 Pink Ipê tree in Mato Grosso Photo by Giles Laurent",
+     "archivo": "File:055 Pink Ipê tree in Mato Grosso Photo by Giles Laurent.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/055_Pink_Ip%C3%AA_tree_in_Mato_Grosso_Photo_by_Giles_Laurent.jpg/960px-055_Pink_Ip%C3%AA_tree_in_Mato_Grosso_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 540,
+     "autor": "Giles Laurent",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:055_Pink_Ip%C3%AA_tree_in_Mato_Grosso_Photo_by_Giles_Laurent.jpg"
+    },
+    {
+     "titulo": "007 Hyacinth macaw couple under Pink Ipê tree in Encontro das Águas State Park Photo by Giles Laurent",
+     "archivo": "File:007 Hyacinth macaw couple under Pink Ipê tree in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/007_Hyacinth_macaw_couple_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-007_Hyacinth_macaw_couple_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Giles Laurent",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:007_Hyacinth_macaw_couple_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg"
+    },
+    {
+     "titulo": "004 Great horned owl under a Pink Ipê tree in Encontro das Águas State Park Photo by Giles Laurent",
+     "archivo": "File:004 Great horned owl under a Pink Ipê tree in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/004_Great_horned_owl_under_a_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-004_Great_horned_owl_under_a_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "ancho": 720,
+     "alto": 480,
+     "autor": "Giles Laurent",
+     "licencia": "CC BY-SA 4.0",
+     "pagina": "https://commons.wikimedia.org/wiki/File:004_Great_horned_owl_under_a_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg"
+    }
+   ]
+  }
+ },
+ "estilos": {
+  "chokkan": [
+   {
+    "titulo": "Formal Upright Ficus Bonsai",
+    "archivo": "File:Formal Upright Ficus Bonsai.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Formal_Upright_Ficus_Bonsai.jpg/960px-Formal_Upright_Ficus_Bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 475,
+    "autor": "Tom Kehoe",
+    "licencia": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Formal_Upright_Ficus_Bonsai.jpg"
+   }
+  ],
+  "moyogi": [],
+  "shakan": [],
+  "kengai": [],
+  "han-kengai": [
+   {
+    "titulo": "Bonsai Semi-Cascade- Han- Kengai",
+    "archivo": "File:Bonsai Semi-Cascade- Han- Kengai.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bonsai_Semi-Cascade-_Han-_Kengai.jpg/960px-Bonsai_Semi-Cascade-_Han-_Kengai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 524,
+    "autor": "Taufik Hadris",
+    "licencia": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_Semi-Cascade-_Han-_Kengai.jpg"
+   },
+   {
+    "titulo": "Semi-cascade cotoneaster bonsai",
+    "archivo": "File:Semi-cascade cotoneaster bonsai.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Semi-cascade_cotoneaster_bonsai.jpg/960px-Semi-cascade_cotoneaster_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 1080,
+    "autor": "Roger Ferrer Ibáñez",
+    "licencia": "CC BY-SA 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Semi-cascade_cotoneaster_bonsai.jpg"
+   }
+  ],
+  "bunjingi": [],
+  "hokidachi": [
+   {
+    "titulo": "Pescia, museo del bonsai, olea europea, stile hokidachi (a scopa), da italia, circa 70 anni",
+    "archivo": "File:Pescia, museo del bonsai, olea europea, stile hokidachi (a scopa), da italia, circa 70 anni.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pescia%2C_museo_del_bonsai%2C_olea_europea%2C_stile_hokidachi_%28a_scopa%29%2C_da_italia%2C_circa_70_anni.jpg/960px-Pescia%2C_museo_del_bonsai%2C_olea_europea%2C_stile_hokidachi_%28a_scopa%29%2C_da_italia%2C_circa_70_anni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 847,
+    "autor": "Sailko",
+    "licencia": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Pescia,_museo_del_bonsai,_olea_europea,_stile_hokidachi_(a_scopa),_da_italia,_circa_70_anni.jpg"
+   }
+  ],
+  "fukinagashi": [],
+  "sokan": [],
+  "kabudachi": [],
+  "yose-ue": [
+   {
+    "titulo": "Black Hills Spruce bonsai forest planting, July 13, 2008",
+    "archivo": "File:Black Hills Spruce bonsai forest planting, July 13, 2008.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Black_Hills_Spruce_bonsai_forest_planting%2C_July_13%2C_2008.jpg/960px-Black_Hills_Spruce_bonsai_forest_planting%2C_July_13%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 576,
+    "autor": "Ragesoss",
+    "licencia": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Black_Hills_Spruce_bonsai_forest_planting,_July_13,_2008.jpg"
+   },
+   {
+    "titulo": "How to make a forest style bonsai from one tree",
+    "archivo": "File:How to make a forest style bonsai from one tree.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/How_to_make_a_forest_style_bonsai_from_one_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "ancho": 720,
+    "alto": 540,
+    "autor": "Tangopaso",
+    "licencia": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:How_to_make_a_forest_style_bonsai_from_one_tree.jpg"
+   },
+   {
+    "titulo": "Bonsai forest (5919070392)",
+    "archivo": "File:Bonsai forest (5919070392).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bonsai_forest_%285919070392%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "ancho": 720,
+    "alto": 540,
+    "autor": "Andy / Andrew Fogg from near Cambridge, UK",
+    "licencia": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_forest_(5919070392).jpg"
+   }
+  ],
+  "neagari": [],
+  "sekijoju": [],
+  "shidare": [
+   {
+    "titulo": "Weeping bonsai",
+    "archivo": "File:Weeping bonsai.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Weeping_bonsai.jpg/960px-Weeping_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 960,
+    "autor": "inajeep from US",
+    "licencia": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Weeping_bonsai.jpg"
+   }
+  ],
+  "tachiki": [
+   {
+    "titulo": "Bald Cypress - National Bonsai & Penjing Museum - Washington, D.C. - Sarah Stierch",
+    "archivo": "File:Bald Cypress - National Bonsai & Penjing Museum - Washington, D.C. - Sarah Stierch.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bald_Cypress_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Sarah_Stierch.jpg/960px-Bald_Cypress_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 653,
+    "autor": "Sarah Stierch",
+    "licencia": "CC BY 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bald_Cypress_-_National_Bonsai_%26_Penjing_Museum_-_Washington,_D.C._-_Sarah_Stierch.jpg"
+   },
+   {
+    "titulo": "Bonsai tree, Saitama",
+    "archivo": "File:Bonsai tree, Saitama.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Bonsai_tree%2C_Saitama.jpg/960px-Bonsai_tree%2C_Saitama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 480,
+    "autor": "Japanexperterna.se",
+    "licencia": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bonsai_tree,_Saitama.jpg"
+   },
+   {
+    "titulo": "Dwarf Japanese Juniper - National Bonsai & Penjing Museum - Washington, D.C. - Sarah Stierch",
+    "archivo": "File:Dwarf Japanese Juniper - National Bonsai & Penjing Museum - Washington, D.C. - Sarah Stierch.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Dwarf_Japanese_Juniper_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Sarah_Stierch.jpg/960px-Dwarf_Japanese_Juniper_-_National_Bonsai_%26_Penjing_Museum_-_Washington%2C_D.C._-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 914,
+    "autor": "Sarah Stierch",
+    "licencia": "CC BY 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Dwarf_Japanese_Juniper_-_National_Bonsai_%26_Penjing_Museum_-_Washington,_D.C._-_Sarah_Stierch.jpg"
+   }
+  ]
+ },
+ "tecnicas": {
+  "estructural": [],
+  "mantenimiento": [],
+  "pinzado": [
+   {
+    "titulo": "John Naka's Goshin, October 10, 2008",
+    "archivo": "File:John Naka's Goshin, October 10, 2008.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/John_Naka%27s_Goshin%2C_October_10%2C_2008.jpg/960px-John_Naka%27s_Goshin%2C_October_10%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 719,
+    "autor": "Sage Ross",
+    "licencia": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:John_Naka%27s_Goshin,_October_10,_2008.jpg"
+   },
+   {
+    "titulo": "Goshin, 30 April 2012",
+    "archivo": "File:Goshin, 30 April 2012.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Goshin%2C_30_April_2012.JPG/960px-Goshin%2C_30_April_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 811,
+    "autor": "Sage Ross",
+    "licencia": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Goshin,_30_April_2012.JPG"
+   },
+   {
+    "titulo": "Goshin, 2007",
+    "archivo": "File:Goshin, 2007.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Goshin%2C_2007.jpg/960px-Goshin%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 712,
+    "autor": "Ragesoss",
+    "licencia": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Goshin,_2007.jpg"
+   }
+  ],
+  "alambrado": [
+   {
+    "titulo": "Pine bonsai with deep wire scars",
+    "archivo": "File:Pine bonsai with deep wire scars.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Pine_bonsai_with_deep_wire_scars.jpg/960px-Pine_bonsai_with_deep_wire_scars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ancho": 720,
+    "alto": 480,
+    "autor": "Ragesoss",
+    "licencia": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Pine_bonsai_with_deep_wire_scars.jpg"
+   }
+  ],
+  "defoliado": [],
+  "jin": [
+   {
+    "titulo": "Deadwood in a Juniper bonsai",
+    "archivo": "File:Deadwood in a Juniper bonsai.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Deadwood_in_a_Juniper_bonsai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "ancho": 720,
+    "alto": 961,
+    "autor": "Antares2000~enwiki",
+    "licencia": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Deadwood_in_a_Juniper_bonsai.jpg"
+   }
+  ],
+  "trasplante": []
+ },
+ "videos": [
+  {
+   "titulo": "Moj mali svet predstavlja- BONSAJI",
+   "archivo": "File:Moj mali svet predstavlja- BONSAJI.webm",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Moj_mali_svet_predstavlja-_BONSAJI.webm/960px--Moj_mali_svet_predstavlja-_BONSAJI.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "video": "https://upload.wikimedia.org/wikipedia/commons/2/20/Moj_mali_svet_predstavlja-_BONSAJI.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "ancho": 640,
+   "alto": 360,
+   "autor": "KMEČKI GLAS",
+   "licencia": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Moj_mali_svet_predstavlja-_BONSAJI.webm"
+  },
+  {
+   "titulo": "Fukien Tea Tree Carmona - blooming I",
+   "archivo": "File:Fukien Tea Tree Carmona - blooming I.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Fukien_Tea_Tree_Carmona_-_blooming_I.ogv/960px--Fukien_Tea_Tree_Carmona_-_blooming_I.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "video": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fukien_Tea_Tree_Carmona_-_blooming_I.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "ancho": 640,
+   "alto": 360,
+   "autor": "Cristian V.",
+   "licencia": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Fukien_Tea_Tree_Carmona_-_blooming_I.ogv"
+  },
+  {
+   "titulo": "Fukien Tea Tree Carmona - blooming II",
+   "archivo": "File:Fukien Tea Tree Carmona - blooming II.ogv",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Fukien_Tea_Tree_Carmona_-_blooming_II.ogv/960px--Fukien_Tea_Tree_Carmona_-_blooming_II.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "video": "https://upload.wikimedia.org/wikipedia/commons/4/43/Fukien_Tea_Tree_Carmona_-_blooming_II.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "ancho": 640,
+   "alto": 360,
+   "autor": "Cristian V.",
+   "licencia": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Fukien_Tea_Tree_Carmona_-_blooming_II.ogv"
+  }
+ ]
+}
